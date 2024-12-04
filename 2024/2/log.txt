@@ -1,0 +1,2961 @@
+Testing Line 0: ['9', '12', '14', '16', '17', '18', '15']
+Bad Index at:  5
+testlistNoBadIndex: ['9', '12', '14', '16', '17', '15']
+testlistAfterBadIndex: ['9', '12', '14', '16', '17', '18']
+Woo!!!!! 4 -1
+Testing Line 1: ['86', '88', '91', '94', '95', '95']
+Bad Index at:  4
+testlistNoBadIndex: ['86', '88', '91', '94', '95']
+testlistAfterBadIndex: ['86', '88', '91', '94', '95']
+Woo!!!!! -1 -1
+Testing Line 2: ['15', '18', '20', '21', '23', '25', '28', '32']
+Bad Index at:  6
+testlistNoBadIndex: ['15', '18', '20', '21', '23', '25', '32']
+testlistAfterBadIndex: ['15', '18', '20', '21', '23', '25', '28']
+Woo!!!!! 5 -1
+Testing Line 3: ['70', '72', '74', '77', '78', '83']
+Bad Index at:  4
+testlistNoBadIndex: ['70', '72', '74', '77', '83']
+testlistAfterBadIndex: ['70', '72', '74', '77', '78']
+Woo!!!!! 3 -1
+Testing Line 4: ['57', '60', '62', '64', '63', '64', '65']
+Bad Index at:  3
+testlistNoBadIndex: ['57', '60', '62', '63', '64', '65']
+testlistAfterBadIndex: ['57', '60', '62', '64', '64', '65']
+Woo!!!!! -1 3
+Testing Line 5: ['44', '45', '44', '47', '46']
+Bad Index at:  1
+testlistNoBadIndex: ['44', '44', '47', '46']
+testlistAfterBadIndex: ['44', '45', '47', '46']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 6: ['33', '35', '32', '33', '36', '36']
+Bad Index at:  1
+testlistNoBadIndex: ['33', '32', '33', '36', '36']
+testlistAfterBadIndex: ['33', '35', '33', '36', '36']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 7: ['83', '86', '88', '89', '87', '88', '90', '94']
+Bad Index at:  3
+testlistNoBadIndex: ['83', '86', '88', '87', '88', '90', '94']
+testlistAfterBadIndex: ['83', '86', '88', '89', '88', '90', '94']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 8: ['56', '59', '62', '65', '68', '65', '68', '75']
+Bad Index at:  4
+testlistNoBadIndex: ['56', '59', '62', '65', '65', '68', '75']
+testlistAfterBadIndex: ['56', '59', '62', '65', '68', '68', '75']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 9: ['36', '39', '40', '40', '43']
+Bad Index at:  2
+testlistNoBadIndex: ['36', '39', '40', '43']
+testlistAfterBadIndex: ['36', '39', '40', '43']
+Woo!!!!! -1 -1
+Testing Line 10: ['87', '90', '93', '95', '95', '97', '94']
+Bad Index at:  3
+testlistNoBadIndex: ['87', '90', '93', '95', '97', '94']
+testlistAfterBadIndex: ['87', '90', '93', '95', '97', '94']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 11: ['90', '91', '92', '92', '95', '95']
+Bad Index at:  2
+testlistNoBadIndex: ['90', '91', '92', '95', '95']
+testlistAfterBadIndex: ['90', '91', '92', '95', '95']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 12: ['11', '14', '14', '15', '16', '19', '23']
+Bad Index at:  1
+testlistNoBadIndex: ['11', '14', '15', '16', '19', '23']
+testlistAfterBadIndex: ['11', '14', '15', '16', '19', '23']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 13: ['35', '37', '39', '39', '44']
+Bad Index at:  2
+testlistNoBadIndex: ['35', '37', '39', '44']
+testlistAfterBadIndex: ['35', '37', '39', '44']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 14: ['59', '61', '63', '67', '68', '69']
+Bad Index at:  2
+testlistNoBadIndex: ['59', '61', '67', '68', '69']
+testlistAfterBadIndex: ['59', '61', '63', '68', '69']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 15: ['86', '87', '91', '92', '91']
+Bad Index at:  1
+testlistNoBadIndex: ['86', '91', '92', '91']
+testlistAfterBadIndex: ['86', '87', '92', '91']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 16: ['33', '36', '38', '39', '43', '44', '47', '47']
+Bad Index at:  3
+testlistNoBadIndex: ['33', '36', '38', '43', '44', '47', '47']
+testlistAfterBadIndex: ['33', '36', '38', '39', '44', '47', '47']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 17: ['82', '84', '86', '89', '93', '94', '98']
+Bad Index at:  3
+testlistNoBadIndex: ['82', '84', '86', '93', '94', '98']
+testlistAfterBadIndex: ['82', '84', '86', '89', '94', '98']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 18: ['4', '5', '7', '10', '13', '17', '24']
+Bad Index at:  4
+testlistNoBadIndex: ['4', '5', '7', '10', '17', '24']
+testlistAfterBadIndex: ['4', '5', '7', '10', '13', '24']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 19: ['51', '54', '60', '63', '64', '67', '68']
+Bad Index at:  1
+testlistNoBadIndex: ['51', '60', '63', '64', '67', '68']
+testlistAfterBadIndex: ['51', '54', '63', '64', '67', '68']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 20: ['38', '40', '43', '45', '51', '54', '56', '53']
+Bad Index at:  3
+testlistNoBadIndex: ['38', '40', '43', '51', '54', '56', '53']
+testlistAfterBadIndex: ['38', '40', '43', '45', '54', '56', '53']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 21: ['8', '9', '10', '15', '16', '17', '17']
+Bad Index at:  2
+testlistNoBadIndex: ['8', '9', '15', '16', '17', '17']
+testlistAfterBadIndex: ['8', '9', '10', '16', '17', '17']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 22: ['24', '26', '33', '34', '38']
+Bad Index at:  1
+testlistNoBadIndex: ['24', '33', '34', '38']
+testlistAfterBadIndex: ['24', '26', '34', '38']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 23: ['61', '62', '64', '66', '68', '74', '80']
+Bad Index at:  4
+testlistNoBadIndex: ['61', '62', '64', '66', '74', '80']
+testlistAfterBadIndex: ['61', '62', '64', '66', '68', '80']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 24: ['44', '43', '46', '48', '49', '50', '51', '53']
+Bad Index at:  1
+testlistNoBadIndex: ['44', '46', '48', '49', '50', '51', '53']
+testlistAfterBadIndex: ['44', '43', '48', '49', '50', '51', '53']
+Woo!!!!! -1 1
+Testing Line 25: ['5', '2', '5', '8', '6']
+Bad Index at:  1
+testlistNoBadIndex: ['5', '5', '8', '6']
+testlistAfterBadIndex: ['5', '2', '8', '6']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 26: ['12', '11', '14', '16', '17', '18', '18']
+Bad Index at:  1
+testlistNoBadIndex: ['12', '14', '16', '17', '18', '18']
+testlistAfterBadIndex: ['12', '11', '16', '17', '18', '18']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 27: ['3', '1', '3', '4', '7', '9', '13']
+Bad Index at:  1
+testlistNoBadIndex: ['3', '3', '4', '7', '9', '13']
+testlistAfterBadIndex: ['3', '1', '4', '7', '9', '13']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 28: ['60', '58', '59', '62', '63', '70']
+Bad Index at:  1
+testlistNoBadIndex: ['60', '59', '62', '63', '70']
+testlistAfterBadIndex: ['60', '58', '62', '63', '70']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 29: ['45', '44', '41', '42', '43', '44', '46']
+Bad Index at:  2
+testlistNoBadIndex: ['45', '44', '42', '43', '44', '46']
+testlistAfterBadIndex: ['45', '44', '41', '43', '44', '46']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 30: ['12', '11', '13', '12', '15', '13']
+Bad Index at:  1
+testlistNoBadIndex: ['12', '13', '12', '15', '13']
+testlistAfterBadIndex: ['12', '11', '12', '15', '13']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 31: ['56', '53', '50', '52', '53', '53']
+Bad Index at:  2
+testlistNoBadIndex: ['56', '53', '52', '53', '53']
+testlistAfterBadIndex: ['56', '53', '50', '53', '53']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 32: ['70', '69', '72', '69', '70', '71', '72', '76']
+Bad Index at:  1
+testlistNoBadIndex: ['70', '72', '69', '70', '71', '72', '76']
+testlistAfterBadIndex: ['70', '69', '69', '70', '71', '72', '76']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 33: ['53', '51', '54', '57', '55', '58', '64']
+Bad Index at:  1
+testlistNoBadIndex: ['53', '54', '57', '55', '58', '64']
+testlistAfterBadIndex: ['53', '51', '57', '55', '58', '64']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 34: ['26', '24', '26', '28', '28', '29', '31', '33']
+Bad Index at:  1
+testlistNoBadIndex: ['26', '26', '28', '28', '29', '31', '33']
+testlistAfterBadIndex: ['26', '24', '28', '28', '29', '31', '33']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 35: ['33', '32', '35', '35', '38', '40', '43', '42']
+Bad Index at:  1
+testlistNoBadIndex: ['33', '35', '35', '38', '40', '43', '42']
+testlistAfterBadIndex: ['33', '32', '35', '38', '40', '43', '42']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 36: ['82', '81', '81', '82', '85', '86', '86']
+Bad Index at:  1
+testlistNoBadIndex: ['82', '81', '82', '85', '86', '86']
+testlistAfterBadIndex: ['82', '81', '82', '85', '86', '86']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 37: ['49', '47', '47', '50', '51', '55']
+Bad Index at:  1
+testlistNoBadIndex: ['49', '47', '50', '51', '55']
+testlistAfterBadIndex: ['49', '47', '50', '51', '55']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 38: ['39', '36', '36', '39', '40', '41', '48']
+Bad Index at:  1
+testlistNoBadIndex: ['39', '36', '39', '40', '41', '48']
+testlistAfterBadIndex: ['39', '36', '39', '40', '41', '48']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 39: ['65', '62', '66', '67', '70', '72', '75']
+Bad Index at:  1
+testlistNoBadIndex: ['65', '66', '67', '70', '72', '75']
+testlistAfterBadIndex: ['65', '62', '67', '70', '72', '75']
+Woo!!!!! -1 1
+Testing Line 40: ['20', '18', '22', '24', '26', '23']
+Bad Index at:  1
+testlistNoBadIndex: ['20', '22', '24', '26', '23']
+testlistAfterBadIndex: ['20', '18', '24', '26', '23']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 41: ['53', '51', '53', '57', '60', '63', '65', '65']
+Bad Index at:  1
+testlistNoBadIndex: ['53', '53', '57', '60', '63', '65', '65']
+testlistAfterBadIndex: ['53', '51', '57', '60', '63', '65', '65']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 42: ['22', '20', '23', '26', '29', '33', '37']
+Bad Index at:  1
+testlistNoBadIndex: ['22', '23', '26', '29', '33', '37']
+testlistAfterBadIndex: ['22', '20', '26', '29', '33', '37']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 43: ['47', '46', '48', '51', '55', '56', '63']
+Bad Index at:  1
+testlistNoBadIndex: ['47', '48', '51', '55', '56', '63']
+testlistAfterBadIndex: ['47', '46', '51', '55', '56', '63']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 44: ['55', '53', '60', '63', '65']
+Bad Index at:  1
+testlistNoBadIndex: ['55', '60', '63', '65']
+testlistAfterBadIndex: ['55', '53', '63', '65']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 45: ['36', '35', '36', '39', '40', '47', '44']
+Bad Index at:  1
+testlistNoBadIndex: ['36', '36', '39', '40', '47', '44']
+testlistAfterBadIndex: ['36', '35', '39', '40', '47', '44']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 46: ['3', '2', '3', '4', '9', '9']
+Bad Index at:  1
+testlistNoBadIndex: ['3', '3', '4', '9', '9']
+testlistAfterBadIndex: ['3', '2', '4', '9', '9']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 47: ['55', '54', '61', '64', '65', '69']
+Bad Index at:  1
+testlistNoBadIndex: ['55', '61', '64', '65', '69']
+testlistAfterBadIndex: ['55', '54', '64', '65', '69']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 48: ['17', '16', '19', '24', '26', '28', '29', '34']
+Bad Index at:  1
+testlistNoBadIndex: ['17', '19', '24', '26', '28', '29', '34']
+testlistAfterBadIndex: ['17', '16', '24', '26', '28', '29', '34']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 49: ['87', '87', '90', '92', '94']
+Bad Index at:  0
+testlistNoBadIndex: ['87', '90', '92', '94']
+testlistAfterBadIndex: ['87', '90', '92', '94']
+Woo!!!!! -1 -1
+Testing Line 50: ['66', '66', '68', '70', '72', '69']
+Bad Index at:  0
+testlistNoBadIndex: ['66', '68', '70', '72', '69']
+testlistAfterBadIndex: ['66', '68', '70', '72', '69']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 51: ['69', '69', '71', '72', '75', '77', '77']
+Bad Index at:  0
+testlistNoBadIndex: ['69', '71', '72', '75', '77', '77']
+testlistAfterBadIndex: ['69', '71', '72', '75', '77', '77']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 52: ['74', '74', '77', '78', '82']
+Bad Index at:  0
+testlistNoBadIndex: ['74', '77', '78', '82']
+testlistAfterBadIndex: ['74', '77', '78', '82']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 53: ['84', '84', '85', '86', '88', '95']
+Bad Index at:  0
+testlistNoBadIndex: ['84', '85', '86', '88', '95']
+testlistAfterBadIndex: ['84', '85', '86', '88', '95']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 54: ['55', '55', '57', '58', '59', '60', '59', '62']
+Bad Index at:  0
+testlistNoBadIndex: ['55', '57', '58', '59', '60', '59', '62']
+testlistAfterBadIndex: ['55', '57', '58', '59', '60', '59', '62']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 55: ['94', '94', '95', '93', '95', '94']
+Bad Index at:  0
+testlistNoBadIndex: ['94', '95', '93', '95', '94']
+testlistAfterBadIndex: ['94', '95', '93', '95', '94']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 56: ['38', '38', '41', '38', '40', '40']
+Bad Index at:  0
+testlistNoBadIndex: ['38', '41', '38', '40', '40']
+testlistAfterBadIndex: ['38', '41', '38', '40', '40']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 57: ['69', '69', '70', '73', '76', '79', '76', '80']
+Bad Index at:  0
+testlistNoBadIndex: ['69', '70', '73', '76', '79', '76', '80']
+testlistAfterBadIndex: ['69', '70', '73', '76', '79', '76', '80']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 58: ['4', '4', '6', '3', '8']
+Bad Index at:  0
+testlistNoBadIndex: ['4', '6', '3', '8']
+testlistAfterBadIndex: ['4', '6', '3', '8']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 59: ['74', '74', '74', '77', '78']
+Bad Index at:  0
+testlistNoBadIndex: ['74', '74', '77', '78']
+testlistAfterBadIndex: ['74', '74', '77', '78']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 60: ['34', '34', '34', '37', '36']
+Bad Index at:  0
+testlistNoBadIndex: ['34', '34', '37', '36']
+testlistAfterBadIndex: ['34', '34', '37', '36']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 61: ['55', '55', '55', '57', '58', '60', '62', '62']
+Bad Index at:  0
+testlistNoBadIndex: ['55', '55', '57', '58', '60', '62', '62']
+testlistAfterBadIndex: ['55', '55', '57', '58', '60', '62', '62']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 62: ['37', '37', '39', '40', '40', '41', '44', '48']
+Bad Index at:  0
+testlistNoBadIndex: ['37', '39', '40', '40', '41', '44', '48']
+testlistAfterBadIndex: ['37', '39', '40', '40', '41', '44', '48']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 63: ['50', '50', '53', '55', '56', '56', '57', '64']
+Bad Index at:  0
+testlistNoBadIndex: ['50', '53', '55', '56', '56', '57', '64']
+testlistAfterBadIndex: ['50', '53', '55', '56', '56', '57', '64']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 64: ['11', '11', '12', '16', '17']
+Bad Index at:  0
+testlistNoBadIndex: ['11', '12', '16', '17']
+testlistAfterBadIndex: ['11', '12', '16', '17']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 65: ['3', '3', '6', '9', '10', '14', '15', '13']
+Bad Index at:  0
+testlistNoBadIndex: ['3', '6', '9', '10', '14', '15', '13']
+testlistAfterBadIndex: ['3', '6', '9', '10', '14', '15', '13']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 66: ['71', '71', '74', '76', '80', '82', '85', '85']
+Bad Index at:  0
+testlistNoBadIndex: ['71', '74', '76', '80', '82', '85', '85']
+testlistAfterBadIndex: ['71', '74', '76', '80', '82', '85', '85']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 67: ['2', '2', '3', '6', '8', '12', '14', '18']
+Bad Index at:  0
+testlistNoBadIndex: ['2', '3', '6', '8', '12', '14', '18']
+testlistAfterBadIndex: ['2', '3', '6', '8', '12', '14', '18']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 68: ['86', '86', '87', '91', '93', '94', '99']
+Bad Index at:  0
+testlistNoBadIndex: ['86', '87', '91', '93', '94', '99']
+testlistAfterBadIndex: ['86', '87', '91', '93', '94', '99']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 69: ['61', '61', '62', '69', '70', '71']
+Bad Index at:  0
+testlistNoBadIndex: ['61', '62', '69', '70', '71']
+testlistAfterBadIndex: ['61', '62', '69', '70', '71']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 70: ['61', '61', '64', '71', '74', '76', '79', '78']
+Bad Index at:  0
+testlistNoBadIndex: ['61', '64', '71', '74', '76', '79', '78']
+testlistAfterBadIndex: ['61', '64', '71', '74', '76', '79', '78']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 71: ['82', '82', '84', '90', '93', '94', '94']
+Bad Index at:  0
+testlistNoBadIndex: ['82', '84', '90', '93', '94', '94']
+testlistAfterBadIndex: ['82', '84', '90', '93', '94', '94']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 72: ['72', '72', '73', '75', '82', '83', '87']
+Bad Index at:  0
+testlistNoBadIndex: ['72', '73', '75', '82', '83', '87']
+testlistAfterBadIndex: ['72', '73', '75', '82', '83', '87']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 73: ['8', '8', '11', '17', '23']
+Bad Index at:  0
+testlistNoBadIndex: ['8', '11', '17', '23']
+testlistAfterBadIndex: ['8', '11', '17', '23']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 74: ['7', '11', '14', '15', '17', '18']
+Bad Index at:  0
+testlistNoBadIndex: ['11', '14', '15', '17', '18']
+testlistAfterBadIndex: ['7', '14', '15', '17', '18']
+Woo!!!!! -1 0
+Testing Line 75: ['19', '23', '25', '27', '28', '30', '31', '30']
+Bad Index at:  0
+testlistNoBadIndex: ['23', '25', '27', '28', '30', '31', '30']
+testlistAfterBadIndex: ['19', '25', '27', '28', '30', '31', '30']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 76: ['63', '67', '70', '72', '74', '76', '78', '78']
+Bad Index at:  0
+testlistNoBadIndex: ['67', '70', '72', '74', '76', '78', '78']
+testlistAfterBadIndex: ['63', '70', '72', '74', '76', '78', '78']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 77: ['51', '55', '57', '60', '63', '67']
+Bad Index at:  0
+testlistNoBadIndex: ['55', '57', '60', '63', '67']
+testlistAfterBadIndex: ['51', '57', '60', '63', '67']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 78: ['42', '46', '48', '50', '53', '55', '62']
+Bad Index at:  0
+testlistNoBadIndex: ['46', '48', '50', '53', '55', '62']
+testlistAfterBadIndex: ['42', '48', '50', '53', '55', '62']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 79: ['16', '20', '21', '24', '27', '29', '26', '27']
+Bad Index at:  0
+testlistNoBadIndex: ['20', '21', '24', '27', '29', '26', '27']
+testlistAfterBadIndex: ['16', '21', '24', '27', '29', '26', '27']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 80: ['37', '41', '40', '42', '45', '48', '46']
+Bad Index at:  0
+testlistNoBadIndex: ['41', '40', '42', '45', '48', '46']
+testlistAfterBadIndex: ['37', '40', '42', '45', '48', '46']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 81: ['90', '94', '97', '99', '96', '96']
+Bad Index at:  0
+testlistNoBadIndex: ['94', '97', '99', '96', '96']
+testlistAfterBadIndex: ['90', '97', '99', '96', '96']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 82: ['43', '47', '48', '50', '52', '51', '55']
+Bad Index at:  0
+testlistNoBadIndex: ['47', '48', '50', '52', '51', '55']
+testlistAfterBadIndex: ['43', '48', '50', '52', '51', '55']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 83: ['76', '80', '83', '86', '83', '86', '87', '93']
+Bad Index at:  0
+testlistNoBadIndex: ['80', '83', '86', '83', '86', '87', '93']
+testlistAfterBadIndex: ['76', '83', '86', '83', '86', '87', '93']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 84: ['81', '85', '85', '88', '90']
+Bad Index at:  0
+testlistNoBadIndex: ['85', '85', '88', '90']
+testlistAfterBadIndex: ['81', '85', '88', '90']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 85: ['21', '25', '25', '27', '30', '29']
+Bad Index at:  0
+testlistNoBadIndex: ['25', '25', '27', '30', '29']
+testlistAfterBadIndex: ['21', '25', '27', '30', '29']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 86: ['11', '15', '15', '17', '17']
+Bad Index at:  0
+testlistNoBadIndex: ['15', '15', '17', '17']
+testlistAfterBadIndex: ['11', '15', '17', '17']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 87: ['80', '84', '84', '85', '86', '88', '91', '95']
+Bad Index at:  0
+testlistNoBadIndex: ['84', '84', '85', '86', '88', '91', '95']
+testlistAfterBadIndex: ['80', '84', '85', '86', '88', '91', '95']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 88: ['3', '7', '7', '8', '14']
+Bad Index at:  0
+testlistNoBadIndex: ['7', '7', '8', '14']
+testlistAfterBadIndex: ['3', '7', '8', '14']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 89: ['24', '28', '32', '33', '36', '39']
+Bad Index at:  0
+testlistNoBadIndex: ['28', '32', '33', '36', '39']
+testlistAfterBadIndex: ['24', '32', '33', '36', '39']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 90: ['57', '61', '65', '66', '68', '70', '72', '70']
+Bad Index at:  0
+testlistNoBadIndex: ['61', '65', '66', '68', '70', '72', '70']
+testlistAfterBadIndex: ['57', '65', '66', '68', '70', '72', '70']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 91: ['9', '13', '14', '18', '21', '24', '24']
+Bad Index at:  0
+testlistNoBadIndex: ['13', '14', '18', '21', '24', '24']
+testlistAfterBadIndex: ['9', '14', '18', '21', '24', '24']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 92: ['28', '32', '34', '35', '37', '41', '42', '46']
+Bad Index at:  0
+testlistNoBadIndex: ['32', '34', '35', '37', '41', '42', '46']
+testlistAfterBadIndex: ['28', '34', '35', '37', '41', '42', '46']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 93: ['56', '60', '64', '65', '72']
+Bad Index at:  0
+testlistNoBadIndex: ['60', '64', '65', '72']
+testlistAfterBadIndex: ['56', '64', '65', '72']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 94: ['5', '9', '14', '16', '17', '19', '21']
+Bad Index at:  0
+testlistNoBadIndex: ['9', '14', '16', '17', '19', '21']
+testlistAfterBadIndex: ['5', '14', '16', '17', '19', '21']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 95: ['40', '44', '47', '48', '49', '54', '53']
+Bad Index at:  0
+testlistNoBadIndex: ['44', '47', '48', '49', '54', '53']
+testlistAfterBadIndex: ['40', '47', '48', '49', '54', '53']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 96: ['50', '54', '57', '64', '64']
+Bad Index at:  0
+testlistNoBadIndex: ['54', '57', '64', '64']
+testlistAfterBadIndex: ['50', '57', '64', '64']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 97: ['7', '11', '17', '18', '22']
+Bad Index at:  0
+testlistNoBadIndex: ['11', '17', '18', '22']
+testlistAfterBadIndex: ['7', '17', '18', '22']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 98: ['67', '71', '73', '78', '80', '82', '85', '92']
+Bad Index at:  0
+testlistNoBadIndex: ['71', '73', '78', '80', '82', '85', '92']
+testlistAfterBadIndex: ['67', '73', '78', '80', '82', '85', '92']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 99: ['28', '34', '36', '38', '40', '42', '43', '45']
+Bad Index at:  0
+testlistNoBadIndex: ['34', '36', '38', '40', '42', '43', '45']
+testlistAfterBadIndex: ['28', '36', '38', '40', '42', '43', '45']
+Woo!!!!! -1 0
+Testing Line 100: ['69', '76', '79', '82', '79']
+Bad Index at:  0
+testlistNoBadIndex: ['76', '79', '82', '79']
+testlistAfterBadIndex: ['69', '79', '82', '79']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 101: ['53', '60', '63', '66', '67', '70', '70']
+Bad Index at:  0
+testlistNoBadIndex: ['60', '63', '66', '67', '70', '70']
+testlistAfterBadIndex: ['53', '63', '66', '67', '70', '70']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 102: ['51', '57', '60', '61', '62', '66']
+Bad Index at:  0
+testlistNoBadIndex: ['57', '60', '61', '62', '66']
+testlistAfterBadIndex: ['51', '60', '61', '62', '66']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 103: ['78', '84', '87', '88', '91', '97']
+Bad Index at:  0
+testlistNoBadIndex: ['84', '87', '88', '91', '97']
+testlistAfterBadIndex: ['78', '87', '88', '91', '97']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 104: ['87', '92', '90', '93', '94']
+Bad Index at:  0
+testlistNoBadIndex: ['92', '90', '93', '94']
+testlistAfterBadIndex: ['87', '90', '93', '94']
+Woo!!!!! 1 -1
+Testing Line 105: ['31', '37', '36', '39', '40', '41', '38']
+Bad Index at:  0
+testlistNoBadIndex: ['37', '36', '39', '40', '41', '38']
+testlistAfterBadIndex: ['31', '36', '39', '40', '41', '38']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 106: ['2', '8', '9', '12', '11', '11']
+Bad Index at:  0
+testlistNoBadIndex: ['8', '9', '12', '11', '11']
+testlistAfterBadIndex: ['2', '9', '12', '11', '11']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 107: ['78', '85', '87', '86', '88', '90', '93', '97']
+Bad Index at:  0
+testlistNoBadIndex: ['85', '87', '86', '88', '90', '93', '97']
+testlistAfterBadIndex: ['78', '87', '86', '88', '90', '93', '97']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 108: ['27', '32', '30', '33', '35', '38', '40', '46']
+Bad Index at:  0
+testlistNoBadIndex: ['32', '30', '33', '35', '38', '40', '46']
+testlistAfterBadIndex: ['27', '30', '33', '35', '38', '40', '46']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 109: ['48', '55', '58', '61', '63', '63', '66']
+Bad Index at:  0
+testlistNoBadIndex: ['55', '58', '61', '63', '63', '66']
+testlistAfterBadIndex: ['48', '58', '61', '63', '63', '66']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 110: ['78', '85', '88', '88', '89', '88']
+Bad Index at:  0
+testlistNoBadIndex: ['85', '88', '88', '89', '88']
+testlistAfterBadIndex: ['78', '88', '88', '89', '88']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 111: ['52', '59', '62', '64', '65', '65', '65']
+Bad Index at:  0
+testlistNoBadIndex: ['59', '62', '64', '65', '65', '65']
+testlistAfterBadIndex: ['52', '62', '64', '65', '65', '65']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 112: ['52', '58', '59', '62', '65', '65', '69']
+Bad Index at:  0
+testlistNoBadIndex: ['58', '59', '62', '65', '65', '69']
+testlistAfterBadIndex: ['52', '59', '62', '65', '65', '69']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 113: ['33', '40', '43', '43', '46', '51']
+Bad Index at:  0
+testlistNoBadIndex: ['40', '43', '43', '46', '51']
+testlistAfterBadIndex: ['33', '43', '43', '46', '51']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 114: ['6', '12', '14', '18', '20']
+Bad Index at:  0
+testlistNoBadIndex: ['12', '14', '18', '20']
+testlistAfterBadIndex: ['6', '14', '18', '20']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 115: ['51', '56', '60', '63', '61']
+Bad Index at:  0
+testlistNoBadIndex: ['56', '60', '63', '61']
+testlistAfterBadIndex: ['51', '60', '63', '61']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 116: ['18', '23', '24', '28', '29', '31', '31']
+Bad Index at:  0
+testlistNoBadIndex: ['23', '24', '28', '29', '31', '31']
+testlistAfterBadIndex: ['18', '24', '28', '29', '31', '31']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 117: ['5', '12', '13', '17', '18', '19', '23']
+Bad Index at:  0
+testlistNoBadIndex: ['12', '13', '17', '18', '19', '23']
+testlistAfterBadIndex: ['5', '13', '17', '18', '19', '23']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 118: ['64', '70', '73', '77', '82']
+Bad Index at:  0
+testlistNoBadIndex: ['70', '73', '77', '82']
+testlistAfterBadIndex: ['64', '73', '77', '82']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 119: ['61', '66', '71', '72', '74', '75', '76']
+Bad Index at:  0
+testlistNoBadIndex: ['66', '71', '72', '74', '75', '76']
+testlistAfterBadIndex: ['61', '71', '72', '74', '75', '76']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 120: ['11', '16', '23', '26', '29', '30', '28']
+Bad Index at:  0
+testlistNoBadIndex: ['16', '23', '26', '29', '30', '28']
+testlistAfterBadIndex: ['11', '23', '26', '29', '30', '28']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 121: ['70', '77', '78', '84', '84']
+Bad Index at:  0
+testlistNoBadIndex: ['77', '78', '84', '84']
+testlistAfterBadIndex: ['70', '78', '84', '84']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 122: ['57', '62', '65', '72', '76']
+Bad Index at:  0
+testlistNoBadIndex: ['62', '65', '72', '76']
+testlistAfterBadIndex: ['57', '65', '72', '76']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 123: ['20', '25', '28', '29', '35', '38', '40', '46']
+Bad Index at:  0
+testlistNoBadIndex: ['25', '28', '29', '35', '38', '40', '46']
+testlistAfterBadIndex: ['20', '28', '29', '35', '38', '40', '46']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 124: ['84', '81', '78', '75', '73', '76']
+Bad Index at:  4
+testlistNoBadIndex: ['84', '81', '78', '75', '76']
+testlistAfterBadIndex: ['84', '81', '78', '75', '73']
+Woo!!!!! 3 -1
+Testing Line 125: ['13', '10', '8', '7', '4', '4']
+Bad Index at:  4
+testlistNoBadIndex: ['13', '10', '8', '7', '4']
+testlistAfterBadIndex: ['13', '10', '8', '7', '4']
+Woo!!!!! -1 -1
+Testing Line 126: ['12', '11', '10', '9', '7', '3']
+Bad Index at:  4
+testlistNoBadIndex: ['12', '11', '10', '9', '3']
+testlistAfterBadIndex: ['12', '11', '10', '9', '7']
+Woo!!!!! 3 -1
+Testing Line 127: ['99', '97', '94', '93', '86']
+Bad Index at:  3
+testlistNoBadIndex: ['99', '97', '94', '86']
+testlistAfterBadIndex: ['99', '97', '94', '93']
+Woo!!!!! 2 -1
+Testing Line 128: ['95', '94', '92', '94', '93', '91', '90', '87']
+Bad Index at:  2
+testlistNoBadIndex: ['95', '94', '94', '93', '91', '90', '87']
+testlistAfterBadIndex: ['95', '94', '92', '93', '91', '90', '87']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 129: ['13', '11', '9', '7', '8', '5', '7']
+Bad Index at:  3
+testlistNoBadIndex: ['13', '11', '9', '8', '5', '7']
+testlistAfterBadIndex: ['13', '11', '9', '7', '5', '7']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 130: ['32', '30', '28', '29', '29']
+Bad Index at:  2
+testlistNoBadIndex: ['32', '30', '29', '29']
+testlistAfterBadIndex: ['32', '30', '28', '29']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 131: ['94', '92', '91', '90', '91', '90', '86']
+Bad Index at:  3
+testlistNoBadIndex: ['94', '92', '91', '91', '90', '86']
+testlistAfterBadIndex: ['94', '92', '91', '90', '90', '86']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 132: ['65', '62', '59', '61', '59', '54']
+Bad Index at:  2
+testlistNoBadIndex: ['65', '62', '61', '59', '54']
+testlistAfterBadIndex: ['65', '62', '59', '59', '54']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 133: ['36', '34', '34', '31', '30', '28']
+Bad Index at:  1
+testlistNoBadIndex: ['36', '34', '31', '30', '28']
+testlistAfterBadIndex: ['36', '34', '31', '30', '28']
+Woo!!!!! -1 -1
+Testing Line 134: ['53', '50', '49', '46', '43', '42', '42', '43']
+Bad Index at:  5
+testlistNoBadIndex: ['53', '50', '49', '46', '43', '42', '43']
+testlistAfterBadIndex: ['53', '50', '49', '46', '43', '42', '43']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 135: ['91', '88', '85', '83', '83', '80', '80']
+Bad Index at:  3
+testlistNoBadIndex: ['91', '88', '85', '83', '80', '80']
+testlistAfterBadIndex: ['91', '88', '85', '83', '80', '80']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 136: ['75', '72', '70', '70', '68', '65', '61']
+Bad Index at:  2
+testlistNoBadIndex: ['75', '72', '70', '68', '65', '61']
+testlistAfterBadIndex: ['75', '72', '70', '68', '65', '61']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 137: ['9', '7', '7', '6', '1']
+Bad Index at:  1
+testlistNoBadIndex: ['9', '7', '6', '1']
+testlistAfterBadIndex: ['9', '7', '6', '1']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 138: ['87', '84', '82', '78', '75']
+Bad Index at:  2
+testlistNoBadIndex: ['87', '84', '78', '75']
+testlistAfterBadIndex: ['87', '84', '82', '75']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 139: ['46', '45', '41', '39', '36', '33', '31', '34']
+Bad Index at:  1
+testlistNoBadIndex: ['46', '41', '39', '36', '33', '31', '34']
+testlistAfterBadIndex: ['46', '45', '39', '36', '33', '31', '34']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 140: ['91', '88', '86', '83', '80', '77', '73', '73']
+Bad Index at:  5
+testlistNoBadIndex: ['91', '88', '86', '83', '80', '73', '73']
+testlistAfterBadIndex: ['91', '88', '86', '83', '80', '77', '73']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 141: ['66', '64', '62', '59', '58', '56', '52', '48']
+Bad Index at:  5
+testlistNoBadIndex: ['66', '64', '62', '59', '58', '52', '48']
+testlistAfterBadIndex: ['66', '64', '62', '59', '58', '56', '48']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 142: ['33', '31', '29', '28', '24', '18']
+Bad Index at:  3
+testlistNoBadIndex: ['33', '31', '29', '24', '18']
+testlistAfterBadIndex: ['33', '31', '29', '28', '18']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 143: ['78', '75', '73', '72', '65', '64']
+Bad Index at:  3
+testlistNoBadIndex: ['78', '75', '73', '65', '64']
+testlistAfterBadIndex: ['78', '75', '73', '72', '64']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 144: ['20', '17', '15', '8', '11']
+Bad Index at:  2
+testlistNoBadIndex: ['20', '17', '8', '11']
+testlistAfterBadIndex: ['20', '17', '15', '11']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 145: ['55', '53', '50', '44', '44']
+Bad Index at:  2
+testlistNoBadIndex: ['55', '53', '44', '44']
+testlistAfterBadIndex: ['55', '53', '50', '44']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 146: ['46', '44', '43', '37', '33']
+Bad Index at:  2
+testlistNoBadIndex: ['46', '44', '37', '33']
+testlistAfterBadIndex: ['46', '44', '43', '33']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 147: ['98', '96', '90', '89', '88', '86', '79']
+Bad Index at:  1
+testlistNoBadIndex: ['98', '90', '89', '88', '86', '79']
+testlistAfterBadIndex: ['98', '96', '89', '88', '86', '79']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 148: ['69', '71', '69', '66', '63']
+Bad Index at:  1
+testlistNoBadIndex: ['69', '69', '66', '63']
+testlistAfterBadIndex: ['69', '71', '66', '63']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 149: ['31', '33', '30', '27', '30']
+Bad Index at:  1
+testlistNoBadIndex: ['31', '30', '27', '30']
+testlistAfterBadIndex: ['31', '33', '27', '30']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 150: ['91', '92', '90', '87', '86', '83', '81', '81']
+Bad Index at:  1
+testlistNoBadIndex: ['91', '90', '87', '86', '83', '81', '81']
+testlistAfterBadIndex: ['91', '92', '87', '86', '83', '81', '81']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 151: ['82', '84', '82', '81', '77']
+Bad Index at:  1
+testlistNoBadIndex: ['82', '82', '81', '77']
+testlistAfterBadIndex: ['82', '84', '81', '77']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 152: ['53', '55', '53', '51', '46']
+Bad Index at:  1
+testlistNoBadIndex: ['53', '53', '51', '46']
+testlistAfterBadIndex: ['53', '55', '51', '46']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 153: ['38', '41', '44', '41', '40']
+Bad Index at:  2
+testlistNoBadIndex: ['38', '41', '41', '40']
+testlistAfterBadIndex: ['38', '41', '44', '40']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 154: ['95', '97', '96', '94', '97', '94', '93', '96']
+Bad Index at:  1
+testlistNoBadIndex: ['95', '96', '94', '97', '94', '93', '96']
+testlistAfterBadIndex: ['95', '97', '94', '97', '94', '93', '96']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 155: ['32', '33', '30', '33', '33']
+Bad Index at:  1
+testlistNoBadIndex: ['32', '30', '33', '33']
+testlistAfterBadIndex: ['32', '33', '33', '33']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 156: ['46', '48', '47', '49', '45']
+Bad Index at:  1
+testlistNoBadIndex: ['46', '47', '49', '45']
+testlistAfterBadIndex: ['46', '48', '49', '45']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 157: ['83', '85', '84', '81', '79', '82', '75']
+Bad Index at:  1
+testlistNoBadIndex: ['83', '84', '81', '79', '82', '75']
+testlistAfterBadIndex: ['83', '85', '81', '79', '82', '75']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 158: ['77', '78', '77', '77', '76']
+Bad Index at:  1
+testlistNoBadIndex: ['77', '77', '77', '76']
+testlistAfterBadIndex: ['77', '78', '77', '76']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 159: ['11', '12', '12', '11', '8', '5', '8']
+Bad Index at:  1
+testlistNoBadIndex: ['11', '12', '11', '8', '5', '8']
+testlistAfterBadIndex: ['11', '12', '11', '8', '5', '8']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 160: ['81', '82', '82', '81', '78', '76', '76']
+Bad Index at:  1
+testlistNoBadIndex: ['81', '82', '81', '78', '76', '76']
+testlistAfterBadIndex: ['81', '82', '81', '78', '76', '76']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 161: ['92', '95', '92', '91', '89', '89', '86', '82']
+Bad Index at:  1
+testlistNoBadIndex: ['92', '92', '91', '89', '89', '86', '82']
+testlistAfterBadIndex: ['92', '95', '91', '89', '89', '86', '82']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 162: ['21', '22', '19', '18', '18', '15', '14', '9']
+Bad Index at:  1
+testlistNoBadIndex: ['21', '19', '18', '18', '15', '14', '9']
+testlistAfterBadIndex: ['21', '22', '18', '18', '15', '14', '9']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 163: ['37', '38', '34', '31', '29']
+Bad Index at:  1
+testlistNoBadIndex: ['37', '34', '31', '29']
+testlistAfterBadIndex: ['37', '38', '31', '29']
+Woo!!!!! -1 1
+Testing Line 164: ['28', '31', '28', '24', '22', '20', '17', '20']
+Bad Index at:  1
+testlistNoBadIndex: ['28', '28', '24', '22', '20', '17', '20']
+testlistAfterBadIndex: ['28', '31', '24', '22', '20', '17', '20']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 165: ['42', '44', '42', '41', '40', '36', '33', '33']
+Bad Index at:  1
+testlistNoBadIndex: ['42', '42', '41', '40', '36', '33', '33']
+testlistAfterBadIndex: ['42', '44', '41', '40', '36', '33', '33']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 166: ['67', '68', '64', '61', '57']
+Bad Index at:  1
+testlistNoBadIndex: ['67', '64', '61', '57']
+testlistAfterBadIndex: ['67', '68', '61', '57']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 167: ['73', '74', '70', '69', '67', '60']
+Bad Index at:  1
+testlistNoBadIndex: ['73', '70', '69', '67', '60']
+testlistAfterBadIndex: ['73', '74', '69', '67', '60']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 168: ['79', '80', '78', '76', '75', '69', '66', '64']
+Bad Index at:  1
+testlistNoBadIndex: ['79', '78', '76', '75', '69', '66', '64']
+testlistAfterBadIndex: ['79', '80', '76', '75', '69', '66', '64']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 169: ['80', '83', '76', '75', '73', '70', '72']
+Bad Index at:  1
+testlistNoBadIndex: ['80', '76', '75', '73', '70', '72']
+testlistAfterBadIndex: ['80', '83', '75', '73', '70', '72']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 170: ['96', '97', '92', '89', '89']
+Bad Index at:  1
+testlistNoBadIndex: ['96', '92', '89', '89']
+testlistAfterBadIndex: ['96', '97', '89', '89']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 171: ['44', '47', '45', '39', '38', '35', '31']
+Bad Index at:  1
+testlistNoBadIndex: ['44', '45', '39', '38', '35', '31']
+testlistAfterBadIndex: ['44', '47', '39', '38', '35', '31']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 172: ['68', '70', '67', '65', '58', '57', '52']
+Bad Index at:  1
+testlistNoBadIndex: ['68', '67', '65', '58', '57', '52']
+testlistAfterBadIndex: ['68', '70', '65', '58', '57', '52']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 173: ['51', '51', '50', '47', '46', '45', '42', '39']
+Bad Index at:  0
+testlistNoBadIndex: ['51', '50', '47', '46', '45', '42', '39']
+testlistAfterBadIndex: ['51', '50', '47', '46', '45', '42', '39']
+Woo!!!!! -1 -1
+Testing Line 174: ['53', '53', '50', '47', '45', '43', '46']
+Bad Index at:  0
+testlistNoBadIndex: ['53', '50', '47', '45', '43', '46']
+testlistAfterBadIndex: ['53', '50', '47', '45', '43', '46']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 175: ['66', '66', '65', '63', '61', '58', '58']
+Bad Index at:  0
+testlistNoBadIndex: ['66', '65', '63', '61', '58', '58']
+testlistAfterBadIndex: ['66', '65', '63', '61', '58', '58']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 176: ['49', '49', '46', '44', '40']
+Bad Index at:  0
+testlistNoBadIndex: ['49', '46', '44', '40']
+testlistAfterBadIndex: ['49', '46', '44', '40']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 177: ['17', '17', '16', '14', '13', '6']
+Bad Index at:  0
+testlistNoBadIndex: ['17', '16', '14', '13', '6']
+testlistAfterBadIndex: ['17', '16', '14', '13', '6']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 178: ['66', '66', '65', '62', '64', '61']
+Bad Index at:  0
+testlistNoBadIndex: ['66', '65', '62', '64', '61']
+testlistAfterBadIndex: ['66', '65', '62', '64', '61']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 179: ['57', '57', '55', '56', '55', '58']
+Bad Index at:  0
+testlistNoBadIndex: ['57', '55', '56', '55', '58']
+testlistAfterBadIndex: ['57', '55', '56', '55', '58']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 180: ['95', '95', '94', '96', '96']
+Bad Index at:  0
+testlistNoBadIndex: ['95', '94', '96', '96']
+testlistAfterBadIndex: ['95', '94', '96', '96']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 181: ['65', '65', '67', '65', '64', '62', '58']
+Bad Index at:  0
+testlistNoBadIndex: ['65', '67', '65', '64', '62', '58']
+testlistAfterBadIndex: ['65', '67', '65', '64', '62', '58']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 182: ['35', '35', '32', '33', '32', '25']
+Bad Index at:  0
+testlistNoBadIndex: ['35', '32', '33', '32', '25']
+testlistAfterBadIndex: ['35', '32', '33', '32', '25']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 183: ['57', '57', '57', '54', '52', '51', '50', '49']
+Bad Index at:  0
+testlistNoBadIndex: ['57', '57', '54', '52', '51', '50', '49']
+testlistAfterBadIndex: ['57', '57', '54', '52', '51', '50', '49']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 184: ['47', '47', '47', '45', '42', '45']
+Bad Index at:  0
+testlistNoBadIndex: ['47', '47', '45', '42', '45']
+testlistAfterBadIndex: ['47', '47', '45', '42', '45']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 185: ['42', '42', '42', '39', '39']
+Bad Index at:  0
+testlistNoBadIndex: ['42', '42', '39', '39']
+testlistAfterBadIndex: ['42', '42', '39', '39']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 186: ['54', '54', '53', '51', '51', '47']
+Bad Index at:  0
+testlistNoBadIndex: ['54', '53', '51', '51', '47']
+testlistAfterBadIndex: ['54', '53', '51', '51', '47']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 187: ['19', '19', '19', '16', '11']
+Bad Index at:  0
+testlistNoBadIndex: ['19', '19', '16', '11']
+testlistAfterBadIndex: ['19', '19', '16', '11']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 188: ['56', '56', '54', '50', '48', '45']
+Bad Index at:  0
+testlistNoBadIndex: ['56', '54', '50', '48', '45']
+testlistAfterBadIndex: ['56', '54', '50', '48', '45']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 189: ['80', '80', '77', '76', '75', '74', '70', '73']
+Bad Index at:  0
+testlistNoBadIndex: ['80', '77', '76', '75', '74', '70', '73']
+testlistAfterBadIndex: ['80', '77', '76', '75', '74', '70', '73']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 190: ['90', '90', '88', '85', '84', '82', '78', '78']
+Bad Index at:  0
+testlistNoBadIndex: ['90', '88', '85', '84', '82', '78', '78']
+testlistAfterBadIndex: ['90', '88', '85', '84', '82', '78', '78']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 191: ['29', '29', '28', '24', '20']
+Bad Index at:  0
+testlistNoBadIndex: ['29', '28', '24', '20']
+testlistAfterBadIndex: ['29', '28', '24', '20']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 192: ['88', '88', '85', '84', '83', '82', '78', '72']
+Bad Index at:  0
+testlistNoBadIndex: ['88', '85', '84', '83', '82', '78', '72']
+testlistAfterBadIndex: ['88', '85', '84', '83', '82', '78', '72']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 193: ['18', '18', '12', '9', '8', '6', '4']
+Bad Index at:  0
+testlistNoBadIndex: ['18', '12', '9', '8', '6', '4']
+testlistAfterBadIndex: ['18', '12', '9', '8', '6', '4']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 194: ['18', '18', '12', '10', '12']
+Bad Index at:  0
+testlistNoBadIndex: ['18', '12', '10', '12']
+testlistAfterBadIndex: ['18', '12', '10', '12']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 195: ['98', '98', '95', '90', '89', '86', '84', '84']
+Bad Index at:  0
+testlistNoBadIndex: ['98', '95', '90', '89', '86', '84', '84']
+testlistAfterBadIndex: ['98', '95', '90', '89', '86', '84', '84']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 196: ['41', '41', '39', '34', '30']
+Bad Index at:  0
+testlistNoBadIndex: ['41', '39', '34', '30']
+testlistAfterBadIndex: ['41', '39', '34', '30']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 197: ['98', '98', '97', '95', '93', '87', '82']
+Bad Index at:  0
+testlistNoBadIndex: ['98', '97', '95', '93', '87', '82']
+testlistAfterBadIndex: ['98', '97', '95', '93', '87', '82']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 198: ['96', '92', '90', '87', '84']
+Bad Index at:  0
+testlistNoBadIndex: ['92', '90', '87', '84']
+testlistAfterBadIndex: ['96', '90', '87', '84']
+Woo!!!!! -1 0
+Testing Line 199: ['65', '61', '58', '57', '54', '53', '54']
+Bad Index at:  0
+testlistNoBadIndex: ['61', '58', '57', '54', '53', '54']
+testlistAfterBadIndex: ['65', '58', '57', '54', '53', '54']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 200: ['38', '34', '32', '30', '28', '25', '22', '22']
+Bad Index at:  0
+testlistNoBadIndex: ['34', '32', '30', '28', '25', '22', '22']
+testlistAfterBadIndex: ['38', '32', '30', '28', '25', '22', '22']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 201: ['93', '89', '86', '85', '81']
+Bad Index at:  0
+testlistNoBadIndex: ['89', '86', '85', '81']
+testlistAfterBadIndex: ['93', '86', '85', '81']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 202: ['58', '54', '52', '51', '50', '45']
+Bad Index at:  0
+testlistNoBadIndex: ['54', '52', '51', '50', '45']
+testlistAfterBadIndex: ['58', '52', '51', '50', '45']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 203: ['86', '82', '80', '79', '76', '75', '76', '74']
+Bad Index at:  0
+testlistNoBadIndex: ['82', '80', '79', '76', '75', '76', '74']
+testlistAfterBadIndex: ['86', '80', '79', '76', '75', '76', '74']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 204: ['54', '50', '47', '49', '52']
+Bad Index at:  0
+testlistNoBadIndex: ['50', '47', '49', '52']
+testlistAfterBadIndex: ['54', '47', '49', '52']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 205: ['57', '53', '52', '49', '50', '48', '48']
+Bad Index at:  0
+testlistNoBadIndex: ['53', '52', '49', '50', '48', '48']
+testlistAfterBadIndex: ['57', '52', '49', '50', '48', '48']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 206: ['64', '60', '57', '58', '55', '51']
+Bad Index at:  0
+testlistNoBadIndex: ['60', '57', '58', '55', '51']
+testlistAfterBadIndex: ['64', '57', '58', '55', '51']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 207: ['56', '52', '53', '50', '43']
+Bad Index at:  0
+testlistNoBadIndex: ['52', '53', '50', '43']
+testlistAfterBadIndex: ['56', '53', '50', '43']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 208: ['90', '86', '85', '84', '84', '82']
+Bad Index at:  0
+testlistNoBadIndex: ['86', '85', '84', '84', '82']
+testlistAfterBadIndex: ['90', '85', '84', '84', '82']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 209: ['66', '62', '61', '59', '58', '58', '59']
+Bad Index at:  0
+testlistNoBadIndex: ['62', '61', '59', '58', '58', '59']
+testlistAfterBadIndex: ['66', '61', '59', '58', '58', '59']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 210: ['86', '82', '81', '81', '78', '75', '75']
+Bad Index at:  0
+testlistNoBadIndex: ['82', '81', '81', '78', '75', '75']
+testlistAfterBadIndex: ['86', '81', '81', '78', '75', '75']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 211: ['63', '59', '56', '56', '55', '54', '52', '48']
+Bad Index at:  0
+testlistNoBadIndex: ['59', '56', '56', '55', '54', '52', '48']
+testlistAfterBadIndex: ['63', '56', '56', '55', '54', '52', '48']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 212: ['86', '82', '79', '79', '78', '75', '70']
+Bad Index at:  0
+testlistNoBadIndex: ['82', '79', '79', '78', '75', '70']
+testlistAfterBadIndex: ['86', '79', '79', '78', '75', '70']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 213: ['49', '45', '44', '40', '37', '36']
+Bad Index at:  0
+testlistNoBadIndex: ['45', '44', '40', '37', '36']
+testlistAfterBadIndex: ['49', '44', '40', '37', '36']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 214: ['95', '91', '87', '84', '82', '79', '76', '77']
+Bad Index at:  0
+testlistNoBadIndex: ['91', '87', '84', '82', '79', '76', '77']
+testlistAfterBadIndex: ['95', '87', '84', '82', '79', '76', '77']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 215: ['65', '61', '59', '58', '56', '52', '51', '51']
+Bad Index at:  0
+testlistNoBadIndex: ['61', '59', '58', '56', '52', '51', '51']
+testlistAfterBadIndex: ['65', '59', '58', '56', '52', '51', '51']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 216: ['56', '52', '50', '46', '44', '41', '37']
+Bad Index at:  0
+testlistNoBadIndex: ['52', '50', '46', '44', '41', '37']
+testlistAfterBadIndex: ['56', '50', '46', '44', '41', '37']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 217: ['19', '15', '14', '10', '9', '3']
+Bad Index at:  0
+testlistNoBadIndex: ['15', '14', '10', '9', '3']
+testlistAfterBadIndex: ['19', '14', '10', '9', '3']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 218: ['95', '91', '85', '84', '81']
+Bad Index at:  0
+testlistNoBadIndex: ['91', '85', '84', '81']
+testlistAfterBadIndex: ['95', '85', '84', '81']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 219: ['16', '12', '5', '3', '5']
+Bad Index at:  0
+testlistNoBadIndex: ['12', '5', '3', '5']
+testlistAfterBadIndex: ['16', '5', '3', '5']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 220: ['95', '91', '84', '83', '82', '79', '76', '76']
+Bad Index at:  0
+testlistNoBadIndex: ['91', '84', '83', '82', '79', '76', '76']
+testlistAfterBadIndex: ['95', '84', '83', '82', '79', '76', '76']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 221: ['65', '61', '60', '55', '51']
+Bad Index at:  0
+testlistNoBadIndex: ['61', '60', '55', '51']
+testlistAfterBadIndex: ['65', '60', '55', '51']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 222: ['72', '68', '67', '66', '59', '52']
+Bad Index at:  0
+testlistNoBadIndex: ['68', '67', '66', '59', '52']
+testlistAfterBadIndex: ['72', '67', '66', '59', '52']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 223: ['64', '59', '57', '55', '54', '52', '50', '48']
+Bad Index at:  0
+testlistNoBadIndex: ['59', '57', '55', '54', '52', '50', '48']
+testlistAfterBadIndex: ['64', '57', '55', '54', '52', '50', '48']
+Woo!!!!! -1 0
+Testing Line 224: ['98', '91', '89', '88', '86', '85', '82', '83']
+Bad Index at:  0
+testlistNoBadIndex: ['91', '89', '88', '86', '85', '82', '83']
+testlistAfterBadIndex: ['98', '89', '88', '86', '85', '82', '83']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 225: ['32', '26', '23', '20', '17', '14', '14']
+Bad Index at:  0
+testlistNoBadIndex: ['26', '23', '20', '17', '14', '14']
+testlistAfterBadIndex: ['32', '23', '20', '17', '14', '14']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 226: ['88', '81', '78', '76', '73', '69']
+Bad Index at:  0
+testlistNoBadIndex: ['81', '78', '76', '73', '69']
+testlistAfterBadIndex: ['88', '78', '76', '73', '69']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 227: ['66', '61', '58', '56', '53', '52', '50', '45']
+Bad Index at:  0
+testlistNoBadIndex: ['61', '58', '56', '53', '52', '50', '45']
+testlistAfterBadIndex: ['66', '58', '56', '53', '52', '50', '45']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 228: ['63', '58', '59', '57', '55', '53']
+Bad Index at:  0
+testlistNoBadIndex: ['58', '59', '57', '55', '53']
+testlistAfterBadIndex: ['63', '59', '57', '55', '53']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 229: ['35', '29', '26', '24', '26', '29']
+Bad Index at:  0
+testlistNoBadIndex: ['29', '26', '24', '26', '29']
+testlistAfterBadIndex: ['35', '26', '24', '26', '29']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 230: ['45', '40', '41', '39', '38', '37', '35', '35']
+Bad Index at:  0
+testlistNoBadIndex: ['40', '41', '39', '38', '37', '35', '35']
+testlistAfterBadIndex: ['45', '41', '39', '38', '37', '35', '35']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 231: ['63', '58', '57', '60', '57', '53']
+Bad Index at:  0
+testlistNoBadIndex: ['58', '57', '60', '57', '53']
+testlistAfterBadIndex: ['63', '57', '60', '57', '53']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 232: ['37', '31', '30', '28', '27', '24', '25', '19']
+Bad Index at:  0
+testlistNoBadIndex: ['31', '30', '28', '27', '24', '25', '19']
+testlistAfterBadIndex: ['37', '30', '28', '27', '24', '25', '19']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 233: ['61', '56', '53', '53', '51', '49']
+Bad Index at:  0
+testlistNoBadIndex: ['56', '53', '53', '51', '49']
+testlistAfterBadIndex: ['61', '53', '53', '51', '49']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 234: ['29', '22', '21', '20', '20', '18', '15', '17']
+Bad Index at:  0
+testlistNoBadIndex: ['22', '21', '20', '20', '18', '15', '17']
+testlistAfterBadIndex: ['29', '21', '20', '20', '18', '15', '17']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 235: ['75', '68', '67', '64', '64', '63', '63']
+Bad Index at:  0
+testlistNoBadIndex: ['68', '67', '64', '64', '63', '63']
+testlistAfterBadIndex: ['75', '67', '64', '64', '63', '63']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 236: ['92', '85', '83', '82', '82', '81', '77']
+Bad Index at:  0
+testlistNoBadIndex: ['85', '83', '82', '82', '81', '77']
+testlistAfterBadIndex: ['92', '83', '82', '82', '81', '77']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 237: ['35', '29', '26', '24', '24', '21', '16']
+Bad Index at:  0
+testlistNoBadIndex: ['29', '26', '24', '24', '21', '16']
+testlistAfterBadIndex: ['35', '26', '24', '24', '21', '16']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 238: ['40', '35', '34', '30', '27', '26', '25']
+Bad Index at:  0
+testlistNoBadIndex: ['35', '34', '30', '27', '26', '25']
+testlistAfterBadIndex: ['40', '34', '30', '27', '26', '25']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 239: ['40', '33', '32', '28', '27', '30']
+Bad Index at:  0
+testlistNoBadIndex: ['33', '32', '28', '27', '30']
+testlistAfterBadIndex: ['40', '32', '28', '27', '30']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 240: ['25', '19', '17', '13', '13']
+Bad Index at:  0
+testlistNoBadIndex: ['19', '17', '13', '13']
+testlistAfterBadIndex: ['25', '17', '13', '13']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 241: ['32', '26', '25', '21', '17']
+Bad Index at:  0
+testlistNoBadIndex: ['26', '25', '21', '17']
+testlistAfterBadIndex: ['32', '25', '21', '17']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 242: ['87', '80', '77', '76', '72', '71', '65']
+Bad Index at:  0
+testlistNoBadIndex: ['80', '77', '76', '72', '71', '65']
+testlistAfterBadIndex: ['87', '77', '76', '72', '71', '65']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 243: ['67', '60', '57', '52', '49']
+Bad Index at:  0
+testlistNoBadIndex: ['60', '57', '52', '49']
+testlistAfterBadIndex: ['67', '57', '52', '49']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 244: ['22', '17', '11', '8', '10']
+Bad Index at:  0
+testlistNoBadIndex: ['17', '11', '8', '10']
+testlistAfterBadIndex: ['22', '11', '8', '10']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 245: ['96', '90', '87', '81', '81']
+Bad Index at:  0
+testlistNoBadIndex: ['90', '87', '81', '81']
+testlistAfterBadIndex: ['96', '87', '81', '81']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 246: ['40', '33', '31', '30', '28', '26', '20', '16']
+Bad Index at:  0
+testlistNoBadIndex: ['33', '31', '30', '28', '26', '20', '16']
+testlistAfterBadIndex: ['40', '31', '30', '28', '26', '20', '16']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 247: ['65', '58', '55', '50', '48', '45', '44', '37']
+Bad Index at:  0
+testlistNoBadIndex: ['58', '55', '50', '48', '45', '44', '37']
+testlistAfterBadIndex: ['65', '55', '50', '48', '45', '44', '37']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 248: ['75', '75', '77', '80', '85', '87', '88', '85']
+Bad Index at:  0
+testlistNoBadIndex: ['75', '77', '80', '85', '87', '88', '85']
+testlistAfterBadIndex: ['75', '77', '80', '85', '87', '88', '85']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 249: ['93', '94', '96', '93', '93']
+Bad Index at:  2
+testlistNoBadIndex: ['93', '94', '93', '93']
+testlistAfterBadIndex: ['93', '94', '96', '93']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 250: ['9', '16', '13', '14', '14']
+Bad Index at:  0
+testlistNoBadIndex: ['16', '13', '14', '14']
+testlistAfterBadIndex: ['9', '13', '14', '14']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 251: ['79', '79', '78', '79', '79']
+Bad Index at:  0
+testlistNoBadIndex: ['79', '78', '79', '79']
+testlistAfterBadIndex: ['79', '78', '79', '79']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 252: ['20', '19', '22', '23', '27', '28', '30']
+Bad Index at:  1
+testlistNoBadIndex: ['20', '22', '23', '27', '28', '30']
+testlistAfterBadIndex: ['20', '19', '23', '27', '28', '30']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 253: ['26', '22', '20', '13', '12', '8']
+Bad Index at:  0
+testlistNoBadIndex: ['22', '20', '13', '12', '8']
+testlistAfterBadIndex: ['26', '20', '13', '12', '8']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 254: ['71', '64', '63', '57', '56', '53', '50', '50']
+Bad Index at:  0
+testlistNoBadIndex: ['64', '63', '57', '56', '53', '50', '50']
+testlistAfterBadIndex: ['71', '63', '57', '56', '53', '50', '50']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 255: ['60', '62', '63', '63', '67']
+Bad Index at:  2
+testlistNoBadIndex: ['60', '62', '63', '67']
+testlistAfterBadIndex: ['60', '62', '63', '67']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 256: ['43', '38', '37', '35', '34', '37', '34']
+Bad Index at:  0
+testlistNoBadIndex: ['38', '37', '35', '34', '37', '34']
+testlistAfterBadIndex: ['43', '37', '35', '34', '37', '34']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 257: ['64', '60', '59', '61', '58', '57', '54', '48']
+Bad Index at:  0
+testlistNoBadIndex: ['60', '59', '61', '58', '57', '54', '48']
+testlistAfterBadIndex: ['64', '59', '61', '58', '57', '54', '48']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 258: ['19', '14', '13', '11', '11']
+Bad Index at:  0
+testlistNoBadIndex: ['14', '13', '11', '11']
+testlistAfterBadIndex: ['19', '13', '11', '11']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 259: ['89', '87', '91', '94', '94']
+Bad Index at:  1
+testlistNoBadIndex: ['89', '91', '94', '94']
+testlistAfterBadIndex: ['89', '87', '94', '94']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 260: ['3', '7', '10', '11', '14', '19', '21', '20']
+Bad Index at:  0
+testlistNoBadIndex: ['7', '10', '11', '14', '19', '21', '20']
+testlistAfterBadIndex: ['3', '10', '11', '14', '19', '21', '20']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 261: ['91', '90', '93', '91', '91']
+Bad Index at:  1
+testlistNoBadIndex: ['91', '93', '91', '91']
+testlistAfterBadIndex: ['91', '90', '91', '91']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 262: ['26', '26', '24', '20', '17', '16']
+Bad Index at:  0
+testlistNoBadIndex: ['26', '24', '20', '17', '16']
+testlistAfterBadIndex: ['26', '24', '20', '17', '16']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 263: ['57', '53', '51', '49', '47', '46', '47']
+Bad Index at:  0
+testlistNoBadIndex: ['53', '51', '49', '47', '46', '47']
+testlistAfterBadIndex: ['57', '51', '49', '47', '46', '47']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 264: ['35', '32', '29', '31', '28', '27', '20']
+Bad Index at:  2
+testlistNoBadIndex: ['35', '32', '31', '28', '27', '20']
+testlistAfterBadIndex: ['35', '32', '29', '28', '27', '20']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 265: ['15', '15', '16', '18', '21', '21']
+Bad Index at:  0
+testlistNoBadIndex: ['15', '16', '18', '21', '21']
+testlistAfterBadIndex: ['15', '16', '18', '21', '21']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 266: ['18', '22', '23', '23', '26', '26']
+Bad Index at:  0
+testlistNoBadIndex: ['22', '23', '23', '26', '26']
+testlistAfterBadIndex: ['18', '23', '23', '26', '26']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 267: ['29', '31', '33', '34', '38', '40', '41', '38']
+Bad Index at:  3
+testlistNoBadIndex: ['29', '31', '33', '38', '40', '41', '38']
+testlistAfterBadIndex: ['29', '31', '33', '34', '40', '41', '38']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 268: ['25', '19', '16', '12', '5']
+Bad Index at:  0
+testlistNoBadIndex: ['19', '16', '12', '5']
+testlistAfterBadIndex: ['25', '16', '12', '5']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 269: ['57', '54', '56', '56', '61']
+Bad Index at:  1
+testlistNoBadIndex: ['57', '56', '56', '61']
+testlistAfterBadIndex: ['57', '54', '56', '61']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 270: ['7', '14', '17', '21', '23']
+Bad Index at:  0
+testlistNoBadIndex: ['14', '17', '21', '23']
+testlistAfterBadIndex: ['7', '17', '21', '23']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 271: ['52', '57', '62', '63', '64', '67', '70', '74']
+Bad Index at:  0
+testlistNoBadIndex: ['57', '62', '63', '64', '67', '70', '74']
+testlistAfterBadIndex: ['52', '62', '63', '64', '67', '70', '74']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 272: ['79', '75', '73', '74', '77']
+Bad Index at:  0
+testlistNoBadIndex: ['75', '73', '74', '77']
+testlistAfterBadIndex: ['79', '73', '74', '77']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 273: ['55', '52', '54', '55', '56', '53']
+Bad Index at:  1
+testlistNoBadIndex: ['55', '54', '55', '56', '53']
+testlistAfterBadIndex: ['55', '52', '55', '56', '53']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 274: ['56', '55', '52', '51', '51', '48', '48']
+Bad Index at:  3
+testlistNoBadIndex: ['56', '55', '52', '51', '48', '48']
+testlistAfterBadIndex: ['56', '55', '52', '51', '48', '48']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 275: ['58', '60', '58', '61', '59']
+Bad Index at:  1
+testlistNoBadIndex: ['58', '58', '61', '59']
+testlistAfterBadIndex: ['58', '60', '61', '59']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 276: ['84', '86', '83', '77', '75']
+Bad Index at:  1
+testlistNoBadIndex: ['84', '83', '77', '75']
+testlistAfterBadIndex: ['84', '86', '77', '75']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 277: ['32', '32', '33', '33', '37']
+Bad Index at:  0
+testlistNoBadIndex: ['32', '33', '33', '37']
+testlistAfterBadIndex: ['32', '33', '33', '37']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 278: ['54', '50', '47', '40', '40']
+Bad Index at:  0
+testlistNoBadIndex: ['50', '47', '40', '40']
+testlistAfterBadIndex: ['54', '47', '40', '40']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 279: ['43', '40', '44', '47', '51']
+Bad Index at:  1
+testlistNoBadIndex: ['43', '44', '47', '51']
+testlistAfterBadIndex: ['43', '40', '47', '51']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 280: ['58', '58', '60', '61', '64', '65', '65', '72']
+Bad Index at:  0
+testlistNoBadIndex: ['58', '60', '61', '64', '65', '65', '72']
+testlistAfterBadIndex: ['58', '60', '61', '64', '65', '65', '72']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 281: ['85', '88', '86', '85', '82', '81', '80', '73']
+Bad Index at:  1
+testlistNoBadIndex: ['85', '86', '85', '82', '81', '80', '73']
+testlistAfterBadIndex: ['85', '88', '85', '82', '81', '80', '73']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 282: ['42', '47', '49', '50', '52', '56', '55']
+Bad Index at:  0
+testlistNoBadIndex: ['47', '49', '50', '52', '56', '55']
+testlistAfterBadIndex: ['42', '49', '50', '52', '56', '55']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 283: ['12', '12', '11', '11', '9', '4']
+Bad Index at:  0
+testlistNoBadIndex: ['12', '11', '11', '9', '4']
+testlistAfterBadIndex: ['12', '11', '11', '9', '4']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 284: ['22', '26', '30', '32', '35', '32']
+Bad Index at:  0
+testlistNoBadIndex: ['26', '30', '32', '35', '32']
+testlistAfterBadIndex: ['22', '30', '32', '35', '32']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 285: ['80', '73', '72', '74', '73', '71', '67']
+Bad Index at:  0
+testlistNoBadIndex: ['73', '72', '74', '73', '71', '67']
+testlistAfterBadIndex: ['80', '72', '74', '73', '71', '67']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 286: ['22', '20', '17', '17', '13']
+Bad Index at:  2
+testlistNoBadIndex: ['22', '20', '17', '13']
+testlistAfterBadIndex: ['22', '20', '17', '13']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 287: ['77', '72', '69', '68', '61']
+Bad Index at:  0
+testlistNoBadIndex: ['72', '69', '68', '61']
+testlistAfterBadIndex: ['77', '69', '68', '61']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 288: ['75', '74', '77', '79', '79', '79']
+Bad Index at:  1
+testlistNoBadIndex: ['75', '77', '79', '79', '79']
+testlistAfterBadIndex: ['75', '74', '79', '79', '79']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 289: ['28', '32', '34', '38', '41', '43', '45']
+Bad Index at:  0
+testlistNoBadIndex: ['32', '34', '38', '41', '43', '45']
+testlistAfterBadIndex: ['28', '34', '38', '41', '43', '45']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 290: ['30', '30', '27', '25', '24', '22', '22', '18']
+Bad Index at:  0
+testlistNoBadIndex: ['30', '27', '25', '24', '22', '22', '18']
+testlistAfterBadIndex: ['30', '27', '25', '24', '22', '22', '18']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 291: ['34', '37', '35', '33', '31', '31']
+Bad Index at:  1
+testlistNoBadIndex: ['34', '35', '33', '31', '31']
+testlistAfterBadIndex: ['34', '37', '33', '31', '31']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 292: ['73', '77', '80', '84', '90']
+Bad Index at:  0
+testlistNoBadIndex: ['77', '80', '84', '90']
+testlistAfterBadIndex: ['73', '80', '84', '90']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 293: ['55', '50', '52', '50', '47', '45', '39']
+Bad Index at:  0
+testlistNoBadIndex: ['50', '52', '50', '47', '45', '39']
+testlistAfterBadIndex: ['55', '52', '50', '47', '45', '39']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 294: ['89', '85', '83', '79', '78', '81']
+Bad Index at:  0
+testlistNoBadIndex: ['85', '83', '79', '78', '81']
+testlistAfterBadIndex: ['89', '83', '79', '78', '81']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 295: ['30', '34', '37', '39', '41', '42', '44', '47']
+Bad Index at:  0
+testlistNoBadIndex: ['34', '37', '39', '41', '42', '44', '47']
+testlistAfterBadIndex: ['30', '37', '39', '41', '42', '44', '47']
+Woo!!!!! -1 0
+Testing Line 296: ['26', '26', '25', '25', '23', '23']
+Bad Index at:  0
+testlistNoBadIndex: ['26', '25', '25', '23', '23']
+testlistAfterBadIndex: ['26', '25', '25', '23', '23']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 297: ['45', '38', '35', '33', '30', '28', '26', '25']
+Bad Index at:  0
+testlistNoBadIndex: ['38', '35', '33', '30', '28', '26', '25']
+testlistAfterBadIndex: ['45', '35', '33', '30', '28', '26', '25']
+Woo!!!!! -1 0
+Testing Line 298: ['73', '77', '79', '79', '83']
+Bad Index at:  0
+testlistNoBadIndex: ['77', '79', '79', '83']
+testlistAfterBadIndex: ['73', '79', '79', '83']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 299: ['86', '82', '82', '81', '74']
+Bad Index at:  0
+testlistNoBadIndex: ['82', '82', '81', '74']
+testlistAfterBadIndex: ['86', '82', '81', '74']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 300: ['29', '32', '30', '25', '18']
+Bad Index at:  1
+testlistNoBadIndex: ['29', '30', '25', '18']
+testlistAfterBadIndex: ['29', '32', '25', '18']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 301: ['30', '30', '25', '23', '19']
+Bad Index at:  0
+testlistNoBadIndex: ['30', '25', '23', '19']
+testlistAfterBadIndex: ['30', '25', '23', '19']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 302: ['19', '12', '13', '11', '11']
+Bad Index at:  0
+testlistNoBadIndex: ['12', '13', '11', '11']
+testlistAfterBadIndex: ['19', '13', '11', '11']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 303: ['92', '88', '85', '82', '79', '80', '78', '74']
+Bad Index at:  0
+testlistNoBadIndex: ['88', '85', '82', '79', '80', '78', '74']
+testlistAfterBadIndex: ['92', '85', '82', '79', '80', '78', '74']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 304: ['65', '64', '65', '68', '71', '74', '77', '77']
+Bad Index at:  1
+testlistNoBadIndex: ['65', '65', '68', '71', '74', '77', '77']
+testlistAfterBadIndex: ['65', '64', '68', '71', '74', '77', '77']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 305: ['13', '13', '13', '10', '9', '12']
+Bad Index at:  0
+testlistNoBadIndex: ['13', '13', '10', '9', '12']
+testlistAfterBadIndex: ['13', '13', '10', '9', '12']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 306: ['74', '75', '77', '80', '82', '88', '86']
+Bad Index at:  4
+testlistNoBadIndex: ['74', '75', '77', '80', '88', '86']
+testlistAfterBadIndex: ['74', '75', '77', '80', '82', '86']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 307: ['34', '35', '34', '32', '31', '31', '28', '29']
+Bad Index at:  1
+testlistNoBadIndex: ['34', '34', '32', '31', '31', '28', '29']
+testlistAfterBadIndex: ['34', '35', '32', '31', '31', '28', '29']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 308: ['17', '11', '9', '9', '7']
+Bad Index at:  0
+testlistNoBadIndex: ['11', '9', '9', '7']
+testlistAfterBadIndex: ['17', '9', '9', '7']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 309: ['34', '38', '37', '39', '41']
+Bad Index at:  0
+testlistNoBadIndex: ['38', '37', '39', '41']
+testlistAfterBadIndex: ['34', '37', '39', '41']
+Woo!!!!! 1 -1
+Testing Line 310: ['50', '49', '46', '46', '45', '42', '39', '42']
+Bad Index at:  2
+testlistNoBadIndex: ['50', '49', '46', '45', '42', '39', '42']
+testlistAfterBadIndex: ['50', '49', '46', '45', '42', '39', '42']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 311: ['13', '19', '20', '23', '24', '27', '27', '25']
+Bad Index at:  0
+testlistNoBadIndex: ['19', '20', '23', '24', '27', '27', '25']
+testlistAfterBadIndex: ['13', '20', '23', '24', '27', '27', '25']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 312: ['33', '40', '45', '46', '46']
+Bad Index at:  0
+testlistNoBadIndex: ['40', '45', '46', '46']
+testlistAfterBadIndex: ['33', '45', '46', '46']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 313: ['21', '27', '29', '30', '31', '33', '33']
+Bad Index at:  0
+testlistNoBadIndex: ['27', '29', '30', '31', '33', '33']
+testlistAfterBadIndex: ['21', '29', '30', '31', '33', '33']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 314: ['81', '74', '71', '65', '63', '61', '60']
+Bad Index at:  0
+testlistNoBadIndex: ['74', '71', '65', '63', '61', '60']
+testlistAfterBadIndex: ['81', '71', '65', '63', '61', '60']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 315: ['74', '78', '81', '83', '90', '94']
+Bad Index at:  0
+testlistNoBadIndex: ['78', '81', '83', '90', '94']
+testlistAfterBadIndex: ['74', '81', '83', '90', '94']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 316: ['21', '21', '14', '11', '4']
+Bad Index at:  0
+testlistNoBadIndex: ['21', '14', '11', '4']
+testlistAfterBadIndex: ['21', '14', '11', '4']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 317: ['70', '70', '69', '65', '63', '56']
+Bad Index at:  0
+testlistNoBadIndex: ['70', '69', '65', '63', '56']
+testlistAfterBadIndex: ['70', '69', '65', '63', '56']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 318: ['46', '50', '51', '51', '54', '57', '58', '57']
+Bad Index at:  0
+testlistNoBadIndex: ['50', '51', '51', '54', '57', '58', '57']
+testlistAfterBadIndex: ['46', '51', '51', '54', '57', '58', '57']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 319: ['52', '58', '60', '61', '62', '64', '64', '65']
+Bad Index at:  0
+testlistNoBadIndex: ['58', '60', '61', '62', '64', '64', '65']
+testlistAfterBadIndex: ['52', '60', '61', '62', '64', '64', '65']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 320: ['42', '42', '36', '33', '32', '29', '28', '31']
+Bad Index at:  0
+testlistNoBadIndex: ['42', '36', '33', '32', '29', '28', '31']
+testlistAfterBadIndex: ['42', '36', '33', '32', '29', '28', '31']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 321: ['74', '75', '74', '72', '75', '73', '71', '67']
+Bad Index at:  1
+testlistNoBadIndex: ['74', '74', '72', '75', '73', '71', '67']
+testlistAfterBadIndex: ['74', '75', '72', '75', '73', '71', '67']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 322: ['62', '62', '64', '67', '74', '75', '78', '85']
+Bad Index at:  0
+testlistNoBadIndex: ['62', '64', '67', '74', '75', '78', '85']
+testlistAfterBadIndex: ['62', '64', '67', '74', '75', '78', '85']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 323: ['79', '75', '72', '71', '70', '68']
+Bad Index at:  0
+testlistNoBadIndex: ['75', '72', '71', '70', '68']
+testlistAfterBadIndex: ['79', '72', '71', '70', '68']
+Woo!!!!! -1 0
+Testing Line 324: ['53', '58', '59', '56', '57', '58', '61']
+Bad Index at:  0
+testlistNoBadIndex: ['58', '59', '56', '57', '58', '61']
+testlistAfterBadIndex: ['53', '59', '56', '57', '58', '61']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 325: ['85', '82', '85', '86', '86', '83']
+Bad Index at:  1
+testlistNoBadIndex: ['85', '85', '86', '86', '83']
+testlistAfterBadIndex: ['85', '82', '86', '86', '83']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 326: ['4', '6', '8', '6', '6']
+Bad Index at:  2
+testlistNoBadIndex: ['4', '6', '6', '6']
+testlistAfterBadIndex: ['4', '6', '8', '6']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 327: ['27', '28', '35', '38', '41', '42', '43', '43']
+Bad Index at:  1
+testlistNoBadIndex: ['27', '35', '38', '41', '42', '43', '43']
+testlistAfterBadIndex: ['27', '28', '38', '41', '42', '43', '43']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 328: ['94', '92', '90', '91', '90', '87', '86', '82']
+Bad Index at:  2
+testlistNoBadIndex: ['94', '92', '91', '90', '87', '86', '82']
+testlistAfterBadIndex: ['94', '92', '90', '90', '87', '86', '82']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 329: ['34', '34', '35', '35', '37', '39', '36']
+Bad Index at:  0
+testlistNoBadIndex: ['34', '35', '35', '37', '39', '36']
+testlistAfterBadIndex: ['34', '35', '35', '37', '39', '36']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 330: ['18', '19', '20', '19', '16', '14']
+Bad Index at:  2
+testlistNoBadIndex: ['18', '19', '19', '16', '14']
+testlistAfterBadIndex: ['18', '19', '20', '16', '14']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 331: ['62', '67', '70', '73', '74', '78', '78']
+Bad Index at:  0
+testlistNoBadIndex: ['67', '70', '73', '74', '78', '78']
+testlistAfterBadIndex: ['62', '70', '73', '74', '78', '78']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 332: ['64', '70', '75', '78', '81']
+Bad Index at:  0
+testlistNoBadIndex: ['70', '75', '78', '81']
+testlistAfterBadIndex: ['64', '75', '78', '81']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 333: ['58', '58', '61', '60', '59', '52']
+Bad Index at:  0
+testlistNoBadIndex: ['58', '61', '60', '59', '52']
+testlistAfterBadIndex: ['58', '61', '60', '59', '52']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 334: ['85', '79', '75', '72', '68']
+Bad Index at:  0
+testlistNoBadIndex: ['79', '75', '72', '68']
+testlistAfterBadIndex: ['85', '75', '72', '68']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 335: ['68', '68', '71', '68', '65', '62', '59', '55']
+Bad Index at:  0
+testlistNoBadIndex: ['68', '71', '68', '65', '62', '59', '55']
+testlistAfterBadIndex: ['68', '71', '68', '65', '62', '59', '55']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 336: ['75', '76', '74', '68', '66', '65', '65']
+Bad Index at:  1
+testlistNoBadIndex: ['75', '74', '68', '66', '65', '65']
+testlistAfterBadIndex: ['75', '76', '68', '66', '65', '65']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 337: ['43', '47', '51', '54', '54']
+Bad Index at:  0
+testlistNoBadIndex: ['47', '51', '54', '54']
+testlistAfterBadIndex: ['43', '51', '54', '54']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 338: ['56', '59', '57', '53', '50', '48']
+Bad Index at:  1
+testlistNoBadIndex: ['56', '57', '53', '50', '48']
+testlistAfterBadIndex: ['56', '59', '53', '50', '48']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 339: ['33', '37', '38', '38', '43']
+Bad Index at:  0
+testlistNoBadIndex: ['37', '38', '38', '43']
+testlistAfterBadIndex: ['33', '38', '38', '43']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 340: ['84', '79', '72', '70', '64']
+Bad Index at:  0
+testlistNoBadIndex: ['79', '72', '70', '64']
+testlistAfterBadIndex: ['84', '72', '70', '64']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 341: ['67', '65', '68', '70', '69', '68']
+Bad Index at:  1
+testlistNoBadIndex: ['67', '68', '70', '69', '68']
+testlistAfterBadIndex: ['67', '65', '70', '69', '68']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 342: ['23', '22', '23', '24', '29']
+Bad Index at:  1
+testlistNoBadIndex: ['23', '23', '24', '29']
+testlistAfterBadIndex: ['23', '22', '24', '29']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 343: ['18', '24', '25', '26', '26', '33']
+Bad Index at:  0
+testlistNoBadIndex: ['24', '25', '26', '26', '33']
+testlistAfterBadIndex: ['18', '25', '26', '26', '33']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 344: ['11', '16', '20', '22', '23', '26', '27', '31']
+Bad Index at:  0
+testlistNoBadIndex: ['16', '20', '22', '23', '26', '27', '31']
+testlistAfterBadIndex: ['11', '20', '22', '23', '26', '27', '31']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 345: ['68', '68', '67', '66', '64']
+Bad Index at:  0
+testlistNoBadIndex: ['68', '67', '66', '64']
+testlistAfterBadIndex: ['68', '67', '66', '64']
+Woo!!!!! -1 -1
+Testing Line 346: ['44', '38', '38', '37', '37']
+Bad Index at:  0
+testlistNoBadIndex: ['38', '38', '37', '37']
+testlistAfterBadIndex: ['44', '38', '37', '37']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 347: ['62', '58', '58', '55', '53', '50', '52']
+Bad Index at:  0
+testlistNoBadIndex: ['58', '58', '55', '53', '50', '52']
+testlistAfterBadIndex: ['62', '58', '55', '53', '50', '52']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 348: ['11', '14', '15', '15', '18', '21', '21']
+Bad Index at:  2
+testlistNoBadIndex: ['11', '14', '15', '18', '21', '21']
+testlistAfterBadIndex: ['11', '14', '15', '18', '21', '21']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 349: ['36', '39', '41', '40', '38', '41']
+Bad Index at:  2
+testlistNoBadIndex: ['36', '39', '40', '38', '41']
+testlistAfterBadIndex: ['36', '39', '41', '38', '41']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 350: ['42', '46', '49', '53', '54', '55', '57', '61']
+Bad Index at:  0
+testlistNoBadIndex: ['46', '49', '53', '54', '55', '57', '61']
+testlistAfterBadIndex: ['42', '49', '53', '54', '55', '57', '61']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 351: ['49', '47', '44', '45', '48', '51', '53', '57']
+Bad Index at:  2
+testlistNoBadIndex: ['49', '47', '45', '48', '51', '53', '57']
+testlistAfterBadIndex: ['49', '47', '44', '48', '51', '53', '57']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 352: ['62', '68', '70', '71', '73']
+Bad Index at:  0
+testlistNoBadIndex: ['68', '70', '71', '73']
+testlistAfterBadIndex: ['62', '70', '71', '73']
+Woo!!!!! -1 0
+Testing Line 353: ['32', '32', '33', '39', '41', '43', '44', '44']
+Bad Index at:  0
+testlistNoBadIndex: ['32', '33', '39', '41', '43', '44', '44']
+testlistAfterBadIndex: ['32', '33', '39', '41', '43', '44', '44']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 354: ['85', '82', '86', '89', '87']
+Bad Index at:  1
+testlistNoBadIndex: ['85', '86', '89', '87']
+testlistAfterBadIndex: ['85', '82', '89', '87']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 355: ['20', '24', '25', '32', '35', '42']
+Bad Index at:  0
+testlistNoBadIndex: ['24', '25', '32', '35', '42']
+testlistAfterBadIndex: ['20', '25', '32', '35', '42']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 356: ['73', '73', '75', '77', '80', '84', '87', '93']
+Bad Index at:  0
+testlistNoBadIndex: ['73', '75', '77', '80', '84', '87', '93']
+testlistAfterBadIndex: ['73', '75', '77', '80', '84', '87', '93']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 357: ['64', '64', '66', '68', '70', '69', '73']
+Bad Index at:  0
+testlistNoBadIndex: ['64', '66', '68', '70', '69', '73']
+testlistAfterBadIndex: ['64', '66', '68', '70', '69', '73']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 358: ['29', '27', '25', '22', '21', '19', '15', '9']
+Bad Index at:  5
+testlistNoBadIndex: ['29', '27', '25', '22', '21', '15', '9']
+testlistAfterBadIndex: ['29', '27', '25', '22', '21', '19', '9']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 359: ['25', '26', '27', '29', '33', '36', '39']
+Bad Index at:  3
+testlistNoBadIndex: ['25', '26', '27', '33', '36', '39']
+testlistAfterBadIndex: ['25', '26', '27', '29', '36', '39']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 360: ['14', '19', '20', '22', '25', '27', '26']
+Bad Index at:  0
+testlistNoBadIndex: ['19', '20', '22', '25', '27', '26']
+testlistAfterBadIndex: ['14', '20', '22', '25', '27', '26']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 361: ['55', '57', '54', '54', '51', '50']
+Bad Index at:  1
+testlistNoBadIndex: ['55', '54', '54', '51', '50']
+testlistAfterBadIndex: ['55', '57', '54', '51', '50']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 362: ['41', '34', '31', '29', '25']
+Bad Index at:  0
+testlistNoBadIndex: ['34', '31', '29', '25']
+testlistAfterBadIndex: ['41', '31', '29', '25']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 363: ['44', '44', '41', '39', '38', '37', '40', '42']
+Bad Index at:  0
+testlistNoBadIndex: ['44', '41', '39', '38', '37', '40', '42']
+testlistAfterBadIndex: ['44', '41', '39', '38', '37', '40', '42']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 364: ['15', '13', '15', '16', '17', '20', '21', '24']
+Bad Index at:  1
+testlistNoBadIndex: ['15', '15', '16', '17', '20', '21', '24']
+testlistAfterBadIndex: ['15', '13', '16', '17', '20', '21', '24']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 365: ['3', '5', '6', '7', '12', '15']
+Bad Index at:  3
+testlistNoBadIndex: ['3', '5', '6', '12', '15']
+testlistAfterBadIndex: ['3', '5', '6', '7', '15']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 366: ['13', '13', '15', '18', '21', '26', '30']
+Bad Index at:  0
+testlistNoBadIndex: ['13', '15', '18', '21', '26', '30']
+testlistAfterBadIndex: ['13', '15', '18', '21', '26', '30']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 367: ['61', '58', '61', '67', '71']
+Bad Index at:  1
+testlistNoBadIndex: ['61', '61', '67', '71']
+testlistAfterBadIndex: ['61', '58', '67', '71']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 368: ['11', '8', '11', '14', '20', '22', '22']
+Bad Index at:  1
+testlistNoBadIndex: ['11', '11', '14', '20', '22', '22']
+testlistAfterBadIndex: ['11', '8', '14', '20', '22', '22']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 369: ['53', '53', '55', '57', '60', '63']
+Bad Index at:  0
+testlistNoBadIndex: ['53', '55', '57', '60', '63']
+testlistAfterBadIndex: ['53', '55', '57', '60', '63']
+Woo!!!!! -1 -1
+Testing Line 370: ['61', '59', '54', '53', '50', '48', '44']
+Bad Index at:  1
+testlistNoBadIndex: ['61', '54', '53', '50', '48', '44']
+testlistAfterBadIndex: ['61', '59', '53', '50', '48', '44']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 371: ['50', '43', '39', '36', '37']
+Bad Index at:  0
+testlistNoBadIndex: ['43', '39', '36', '37']
+testlistAfterBadIndex: ['50', '39', '36', '37']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 372: ['53', '52', '51', '50', '46', '44', '42']
+Bad Index at:  3
+testlistNoBadIndex: ['53', '52', '51', '46', '44', '42']
+testlistAfterBadIndex: ['53', '52', '51', '50', '44', '42']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 373: ['54', '50', '48', '45', '43', '39']
+Bad Index at:  0
+testlistNoBadIndex: ['50', '48', '45', '43', '39']
+testlistAfterBadIndex: ['54', '48', '45', '43', '39']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 374: ['65', '65', '62', '61', '59', '57', '53']
+Bad Index at:  0
+testlistNoBadIndex: ['65', '62', '61', '59', '57', '53']
+testlistAfterBadIndex: ['65', '62', '61', '59', '57', '53']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 375: ['96', '96', '95', '93', '91', '90', '84']
+Bad Index at:  0
+testlistNoBadIndex: ['96', '95', '93', '91', '90', '84']
+testlistAfterBadIndex: ['96', '95', '93', '91', '90', '84']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 376: ['42', '44', '48', '51', '57']
+Bad Index at:  1
+testlistNoBadIndex: ['42', '48', '51', '57']
+testlistAfterBadIndex: ['42', '44', '51', '57']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 377: ['82', '80', '80', '83', '87']
+Bad Index at:  1
+testlistNoBadIndex: ['82', '80', '83', '87']
+testlistAfterBadIndex: ['82', '80', '83', '87']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 378: ['78', '78', '82', '85', '88']
+Bad Index at:  0
+testlistNoBadIndex: ['78', '82', '85', '88']
+testlistAfterBadIndex: ['78', '82', '85', '88']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 379: ['18', '22', '25', '26', '24', '26', '28', '28']
+Bad Index at:  0
+testlistNoBadIndex: ['22', '25', '26', '24', '26', '28', '28']
+testlistAfterBadIndex: ['18', '25', '26', '24', '26', '28', '28']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 380: ['17', '17', '20', '24', '25', '26', '27', '31']
+Bad Index at:  0
+testlistNoBadIndex: ['17', '20', '24', '25', '26', '27', '31']
+testlistAfterBadIndex: ['17', '20', '24', '25', '26', '27', '31']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 381: ['81', '80', '79', '77', '73']
+Bad Index at:  3
+testlistNoBadIndex: ['81', '80', '79', '73']
+testlistAfterBadIndex: ['81', '80', '79', '77']
+Woo!!!!! 2 -1
+Testing Line 382: ['35', '33', '29', '26', '25', '23', '24']
+Bad Index at:  1
+testlistNoBadIndex: ['35', '29', '26', '25', '23', '24']
+testlistAfterBadIndex: ['35', '33', '26', '25', '23', '24']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 383: ['81', '77', '74', '68', '70']
+Bad Index at:  0
+testlistNoBadIndex: ['77', '74', '68', '70']
+testlistAfterBadIndex: ['81', '74', '68', '70']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 384: ['51', '53', '50', '49', '51', '46']
+Bad Index at:  1
+testlistNoBadIndex: ['51', '50', '49', '51', '46']
+testlistAfterBadIndex: ['51', '53', '49', '51', '46']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 385: ['19', '23', '24', '26', '30']
+Bad Index at:  0
+testlistNoBadIndex: ['23', '24', '26', '30']
+testlistAfterBadIndex: ['19', '24', '26', '30']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 386: ['36', '36', '35', '34', '32', '32']
+Bad Index at:  0
+testlistNoBadIndex: ['36', '35', '34', '32', '32']
+testlistAfterBadIndex: ['36', '35', '34', '32', '32']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 387: ['6', '9', '9', '12', '10']
+Bad Index at:  1
+testlistNoBadIndex: ['6', '9', '12', '10']
+testlistAfterBadIndex: ['6', '9', '12', '10']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 388: ['24', '22', '16', '14', '11', '9', '9']
+Bad Index at:  1
+testlistNoBadIndex: ['24', '16', '14', '11', '9', '9']
+testlistAfterBadIndex: ['24', '22', '14', '11', '9', '9']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 389: ['23', '20', '18', '15', '13', '10', '7', '8']
+Bad Index at:  6
+testlistNoBadIndex: ['23', '20', '18', '15', '13', '10', '8']
+testlistAfterBadIndex: ['23', '20', '18', '15', '13', '10', '7']
+Woo!!!!! -1 -1
+Testing Line 390: ['70', '71', '78', '79', '83']
+Bad Index at:  1
+testlistNoBadIndex: ['70', '78', '79', '83']
+testlistAfterBadIndex: ['70', '71', '79', '83']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 391: ['66', '71', '74', '77', '80', '87', '84']
+Bad Index at:  0
+testlistNoBadIndex: ['71', '74', '77', '80', '87', '84']
+testlistAfterBadIndex: ['66', '74', '77', '80', '87', '84']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 392: ['31', '35', '38', '36', '39', '40', '43', '42']
+Bad Index at:  0
+testlistNoBadIndex: ['35', '38', '36', '39', '40', '43', '42']
+testlistAfterBadIndex: ['31', '38', '36', '39', '40', '43', '42']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 393: ['65', '63', '64', '65', '70', '72']
+Bad Index at:  1
+testlistNoBadIndex: ['65', '64', '65', '70', '72']
+testlistAfterBadIndex: ['65', '63', '65', '70', '72']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 394: ['25', '25', '23', '19', '17', '14', '11', '13']
+Bad Index at:  0
+testlistNoBadIndex: ['25', '23', '19', '17', '14', '11', '13']
+testlistAfterBadIndex: ['25', '23', '19', '17', '14', '11', '13']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 395: ['25', '31', '32', '33', '36', '35', '39']
+Bad Index at:  0
+testlistNoBadIndex: ['31', '32', '33', '36', '35', '39']
+testlistAfterBadIndex: ['25', '32', '33', '36', '35', '39']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 396: ['87', '83', '82', '80', '80']
+Bad Index at:  0
+testlistNoBadIndex: ['83', '82', '80', '80']
+testlistAfterBadIndex: ['87', '82', '80', '80']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 397: ['45', '49', '51', '53', '56', '59', '59']
+Bad Index at:  0
+testlistNoBadIndex: ['49', '51', '53', '56', '59', '59']
+testlistAfterBadIndex: ['45', '51', '53', '56', '59', '59']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 398: ['84', '82', '79', '77', '76', '76']
+Bad Index at:  4
+testlistNoBadIndex: ['84', '82', '79', '77', '76']
+testlistAfterBadIndex: ['84', '82', '79', '77', '76']
+Woo!!!!! -1 -1
+Testing Line 399: ['39', '45', '46', '47', '50', '55', '60']
+Bad Index at:  0
+testlistNoBadIndex: ['45', '46', '47', '50', '55', '60']
+testlistAfterBadIndex: ['39', '46', '47', '50', '55', '60']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 400: ['16', '16', '14', '17', '19', '20', '23']
+Bad Index at:  0
+testlistNoBadIndex: ['16', '14', '17', '19', '20', '23']
+testlistAfterBadIndex: ['16', '14', '17', '19', '20', '23']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 401: ['37', '35', '38', '40', '42', '40', '41', '41']
+Bad Index at:  1
+testlistNoBadIndex: ['37', '38', '40', '42', '40', '41', '41']
+testlistAfterBadIndex: ['37', '35', '40', '42', '40', '41', '41']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 402: ['82', '82', '85', '87', '89', '90', '94', '94']
+Bad Index at:  0
+testlistNoBadIndex: ['82', '85', '87', '89', '90', '94', '94']
+testlistAfterBadIndex: ['82', '85', '87', '89', '90', '94', '94']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 403: ['12', '14', '13', '10', '9']
+Bad Index at:  1
+testlistNoBadIndex: ['12', '13', '10', '9']
+testlistAfterBadIndex: ['12', '14', '10', '9']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 404: ['63', '67', '69', '71', '73', '74', '71']
+Bad Index at:  0
+testlistNoBadIndex: ['67', '69', '71', '73', '74', '71']
+testlistAfterBadIndex: ['63', '69', '71', '73', '74', '71']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 405: ['15', '19', '22', '24', '22', '24', '28']
+Bad Index at:  0
+testlistNoBadIndex: ['19', '22', '24', '22', '24', '28']
+testlistAfterBadIndex: ['15', '22', '24', '22', '24', '28']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 406: ['82', '82', '83', '89', '90', '91', '94', '95']
+Bad Index at:  0
+testlistNoBadIndex: ['82', '83', '89', '90', '91', '94', '95']
+testlistAfterBadIndex: ['82', '83', '89', '90', '91', '94', '95']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 407: ['42', '41', '39', '36', '33', '32', '26', '28']
+Bad Index at:  5
+testlistNoBadIndex: ['42', '41', '39', '36', '33', '26', '28']
+testlistAfterBadIndex: ['42', '41', '39', '36', '33', '32', '28']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 408: ['10', '13', '14', '17', '17', '22']
+Bad Index at:  3
+testlistNoBadIndex: ['10', '13', '14', '17', '22']
+testlistAfterBadIndex: ['10', '13', '14', '17', '22']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 409: ['85', '85', '86', '84', '85', '85']
+Bad Index at:  0
+testlistNoBadIndex: ['85', '86', '84', '85', '85']
+testlistAfterBadIndex: ['85', '86', '84', '85', '85']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 410: ['62', '57', '57', '56', '51']
+Bad Index at:  0
+testlistNoBadIndex: ['57', '57', '56', '51']
+testlistAfterBadIndex: ['62', '57', '56', '51']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 411: ['91', '85', '84', '84', '82', '84']
+Bad Index at:  0
+testlistNoBadIndex: ['85', '84', '84', '82', '84']
+testlistAfterBadIndex: ['91', '84', '84', '82', '84']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 412: ['64', '65', '66', '69', '72', '74', '79']
+Bad Index at:  5
+testlistNoBadIndex: ['64', '65', '66', '69', '72', '79']
+testlistAfterBadIndex: ['64', '65', '66', '69', '72', '74']
+Woo!!!!! 4 -1
+Testing Line 413: ['64', '57', '56', '50', '48', '44']
+Bad Index at:  0
+testlistNoBadIndex: ['57', '56', '50', '48', '44']
+testlistAfterBadIndex: ['64', '56', '50', '48', '44']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 414: ['29', '29', '29', '27', '24', '22']
+Bad Index at:  0
+testlistNoBadIndex: ['29', '29', '27', '24', '22']
+testlistAfterBadIndex: ['29', '29', '27', '24', '22']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 415: ['99', '95', '94', '92', '89', '87', '83', '82']
+Bad Index at:  0
+testlistNoBadIndex: ['95', '94', '92', '89', '87', '83', '82']
+testlistAfterBadIndex: ['99', '94', '92', '89', '87', '83', '82']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 416: ['79', '83', '85', '87', '94', '96', '97']
+Bad Index at:  0
+testlistNoBadIndex: ['83', '85', '87', '94', '96', '97']
+testlistAfterBadIndex: ['79', '85', '87', '94', '96', '97']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 417: ['95', '91', '88', '84', '83', '80', '79', '72']
+Bad Index at:  0
+testlistNoBadIndex: ['91', '88', '84', '83', '80', '79', '72']
+testlistAfterBadIndex: ['95', '88', '84', '83', '80', '79', '72']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 418: ['86', '86', '84', '85', '84']
+Bad Index at:  0
+testlistNoBadIndex: ['86', '84', '85', '84']
+testlistAfterBadIndex: ['86', '84', '85', '84']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 419: ['83', '86', '85', '81', '76']
+Bad Index at:  1
+testlistNoBadIndex: ['83', '85', '81', '76']
+testlistAfterBadIndex: ['83', '86', '81', '76']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 420: ['30', '29', '28', '26', '22', '19', '15']
+Bad Index at:  3
+testlistNoBadIndex: ['30', '29', '28', '22', '19', '15']
+testlistAfterBadIndex: ['30', '29', '28', '26', '19', '15']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 421: ['67', '63', '62', '64', '64']
+Bad Index at:  0
+testlistNoBadIndex: ['63', '62', '64', '64']
+testlistAfterBadIndex: ['67', '62', '64', '64']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 422: ['6', '6', '10', '13', '14', '11']
+Bad Index at:  0
+testlistNoBadIndex: ['6', '10', '13', '14', '11']
+testlistAfterBadIndex: ['6', '10', '13', '14', '11']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 423: ['54', '53', '50', '52', '58']
+Bad Index at:  2
+testlistNoBadIndex: ['54', '53', '52', '58']
+testlistAfterBadIndex: ['54', '53', '50', '58']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 424: ['37', '36', '36', '35', '33', '30', '27', '21']
+Bad Index at:  1
+testlistNoBadIndex: ['37', '36', '35', '33', '30', '27', '21']
+testlistAfterBadIndex: ['37', '36', '35', '33', '30', '27', '21']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 425: ['86', '87', '85', '82', '81', '79', '76', '78']
+Bad Index at:  1
+testlistNoBadIndex: ['86', '85', '82', '81', '79', '76', '78']
+testlistAfterBadIndex: ['86', '87', '82', '81', '79', '76', '78']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 426: ['46', '50', '53', '56', '59', '65']
+Bad Index at:  0
+testlistNoBadIndex: ['50', '53', '56', '59', '65']
+testlistAfterBadIndex: ['46', '53', '56', '59', '65']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 427: ['76', '78', '81', '85', '88', '92']
+Bad Index at:  2
+testlistNoBadIndex: ['76', '78', '85', '88', '92']
+testlistAfterBadIndex: ['76', '78', '81', '88', '92']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 428: ['62', '58', '57', '55', '54', '54', '50']
+Bad Index at:  0
+testlistNoBadIndex: ['58', '57', '55', '54', '54', '50']
+testlistAfterBadIndex: ['62', '57', '55', '54', '54', '50']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 429: ['57', '57', '59', '61', '62', '61']
+Bad Index at:  0
+testlistNoBadIndex: ['57', '59', '61', '62', '61']
+testlistAfterBadIndex: ['57', '59', '61', '62', '61']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 430: ['83', '79', '78', '75', '74', '68', '66', '59']
+Bad Index at:  0
+testlistNoBadIndex: ['79', '78', '75', '74', '68', '66', '59']
+testlistAfterBadIndex: ['83', '78', '75', '74', '68', '66', '59']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 431: ['56', '52', '48', '47', '44', '44']
+Bad Index at:  0
+testlistNoBadIndex: ['52', '48', '47', '44', '44']
+testlistAfterBadIndex: ['56', '48', '47', '44', '44']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 432: ['54', '50', '48', '46', '43', '43', '42']
+Bad Index at:  0
+testlistNoBadIndex: ['50', '48', '46', '43', '43', '42']
+testlistAfterBadIndex: ['54', '48', '46', '43', '43', '42']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 433: ['15', '14', '15', '16', '17', '19', '22', '26']
+Bad Index at:  1
+testlistNoBadIndex: ['15', '15', '16', '17', '19', '22', '26']
+testlistAfterBadIndex: ['15', '14', '16', '17', '19', '22', '26']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 434: ['72', '73', '68', '67', '64', '63', '62', '58']
+Bad Index at:  1
+testlistNoBadIndex: ['72', '68', '67', '64', '63', '62', '58']
+testlistAfterBadIndex: ['72', '73', '67', '64', '63', '62', '58']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 435: ['12', '19', '20', '22', '26', '28', '29', '36']
+Bad Index at:  0
+testlistNoBadIndex: ['19', '20', '22', '26', '28', '29', '36']
+testlistAfterBadIndex: ['12', '20', '22', '26', '28', '29', '36']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 436: ['26', '33', '30', '32', '35', '41']
+Bad Index at:  0
+testlistNoBadIndex: ['33', '30', '32', '35', '41']
+testlistAfterBadIndex: ['26', '30', '32', '35', '41']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 437: ['27', '29', '31', '32', '33', '37']
+Bad Index at:  4
+testlistNoBadIndex: ['27', '29', '31', '32', '37']
+testlistAfterBadIndex: ['27', '29', '31', '32', '33']
+Woo!!!!! 3 -1
+Testing Line 438: ['64', '64', '62', '61', '57', '54', '51', '51']
+Bad Index at:  0
+testlistNoBadIndex: ['64', '62', '61', '57', '54', '51', '51']
+testlistAfterBadIndex: ['64', '62', '61', '57', '54', '51', '51']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 439: ['54', '61', '61', '62', '66']
+Bad Index at:  0
+testlistNoBadIndex: ['61', '61', '62', '66']
+testlistAfterBadIndex: ['54', '61', '62', '66']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 440: ['59', '63', '66', '71', '73', '76', '79', '79']
+Bad Index at:  0
+testlistNoBadIndex: ['63', '66', '71', '73', '76', '79', '79']
+testlistAfterBadIndex: ['59', '66', '71', '73', '76', '79', '79']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 441: ['95', '88', '86', '84', '83', '82', '78', '75']
+Bad Index at:  0
+testlistNoBadIndex: ['88', '86', '84', '83', '82', '78', '75']
+testlistAfterBadIndex: ['95', '86', '84', '83', '82', '78', '75']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 442: ['61', '62', '61', '61', '61']
+Bad Index at:  1
+testlistNoBadIndex: ['61', '61', '61', '61']
+testlistAfterBadIndex: ['61', '62', '61', '61']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 443: ['61', '58', '57', '51', '50', '48']
+Bad Index at:  2
+testlistNoBadIndex: ['61', '58', '51', '50', '48']
+testlistAfterBadIndex: ['61', '58', '57', '50', '48']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 444: ['39', '35', '38', '36', '34']
+Bad Index at:  0
+testlistNoBadIndex: ['35', '38', '36', '34']
+testlistAfterBadIndex: ['39', '38', '36', '34']
+Woo!!!!! 1 -1
+Testing Line 445: ['44', '44', '47', '50', '52', '54', '56', '60']
+Bad Index at:  0
+testlistNoBadIndex: ['44', '47', '50', '52', '54', '56', '60']
+testlistAfterBadIndex: ['44', '47', '50', '52', '54', '56', '60']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 446: ['42', '40', '38', '35', '32', '26']
+Bad Index at:  4
+testlistNoBadIndex: ['42', '40', '38', '35', '26']
+testlistAfterBadIndex: ['42', '40', '38', '35', '32']
+Woo!!!!! 3 -1
+Testing Line 447: ['30', '27', '24', '21', '22', '20', '23']
+Bad Index at:  3
+testlistNoBadIndex: ['30', '27', '24', '22', '20', '23']
+testlistAfterBadIndex: ['30', '27', '24', '21', '20', '23']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 448: ['19', '19', '22', '24', '27', '28', '34']
+Bad Index at:  0
+testlistNoBadIndex: ['19', '22', '24', '27', '28', '34']
+testlistAfterBadIndex: ['19', '22', '24', '27', '28', '34']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 449: ['49', '50', '47', '46', '42', '42']
+Bad Index at:  1
+testlistNoBadIndex: ['49', '47', '46', '42', '42']
+testlistAfterBadIndex: ['49', '50', '46', '42', '42']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 450: ['82', '77', '79', '78', '76', '77']
+Bad Index at:  0
+testlistNoBadIndex: ['77', '79', '78', '76', '77']
+testlistAfterBadIndex: ['82', '79', '78', '76', '77']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 451: ['2', '1', '3', '3', '4', '5', '6']
+Bad Index at:  1
+testlistNoBadIndex: ['2', '3', '3', '4', '5', '6']
+testlistAfterBadIndex: ['2', '1', '3', '4', '5', '6']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 452: ['77', '77', '76', '74', '69', '67', '66', '64']
+Bad Index at:  0
+testlistNoBadIndex: ['77', '76', '74', '69', '67', '66', '64']
+testlistAfterBadIndex: ['77', '76', '74', '69', '67', '66', '64']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 453: ['49', '50', '53', '54', '56', '58', '58']
+Bad Index at:  5
+testlistNoBadIndex: ['49', '50', '53', '54', '56', '58']
+testlistAfterBadIndex: ['49', '50', '53', '54', '56', '58']
+Woo!!!!! -1 -1
+Testing Line 454: ['83', '86', '84', '82', '78', '77', '74', '75']
+Bad Index at:  1
+testlistNoBadIndex: ['83', '84', '82', '78', '77', '74', '75']
+testlistAfterBadIndex: ['83', '86', '82', '78', '77', '74', '75']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 455: ['60', '54', '50', '49', '47', '46', '44', '44']
+Bad Index at:  0
+testlistNoBadIndex: ['54', '50', '49', '47', '46', '44', '44']
+testlistAfterBadIndex: ['60', '50', '49', '47', '46', '44', '44']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 456: ['49', '48', '47', '47', '44', '42', '39', '36']
+Bad Index at:  2
+testlistNoBadIndex: ['49', '48', '47', '44', '42', '39', '36']
+testlistAfterBadIndex: ['49', '48', '47', '44', '42', '39', '36']
+Woo!!!!! -1 -1
+Testing Line 457: ['77', '73', '73', '70', '67', '67']
+Bad Index at:  0
+testlistNoBadIndex: ['73', '73', '70', '67', '67']
+testlistAfterBadIndex: ['77', '73', '70', '67', '67']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 458: ['31', '27', '22', '19', '18']
+Bad Index at:  0
+testlistNoBadIndex: ['27', '22', '19', '18']
+testlistAfterBadIndex: ['31', '22', '19', '18']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 459: ['64', '60', '58', '56', '54', '49']
+Bad Index at:  0
+testlistNoBadIndex: ['60', '58', '56', '54', '49']
+testlistAfterBadIndex: ['64', '58', '56', '54', '49']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 460: ['62', '66', '68', '68', '70', '73', '75']
+Bad Index at:  0
+testlistNoBadIndex: ['66', '68', '68', '70', '73', '75']
+testlistAfterBadIndex: ['62', '68', '68', '70', '73', '75']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 461: ['89', '94', '95', '97', '99', '99', '99']
+Bad Index at:  0
+testlistNoBadIndex: ['94', '95', '97', '99', '99', '99']
+testlistAfterBadIndex: ['89', '95', '97', '99', '99', '99']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 462: ['51', '53', '49', '47', '46', '43', '39']
+Bad Index at:  1
+testlistNoBadIndex: ['51', '49', '47', '46', '43', '39']
+testlistAfterBadIndex: ['51', '53', '47', '46', '43', '39']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 463: ['8', '10', '11', '12', '17', '18', '25']
+Bad Index at:  3
+testlistNoBadIndex: ['8', '10', '11', '17', '18', '25']
+testlistAfterBadIndex: ['8', '10', '11', '12', '18', '25']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 464: ['87', '88', '90', '93', '91', '92', '95', '99']
+Bad Index at:  3
+testlistNoBadIndex: ['87', '88', '90', '91', '92', '95', '99']
+testlistAfterBadIndex: ['87', '88', '90', '93', '92', '95', '99']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 465: ['70', '70', '71', '68', '70', '73', '80']
+Bad Index at:  0
+testlistNoBadIndex: ['70', '71', '68', '70', '73', '80']
+testlistAfterBadIndex: ['70', '71', '68', '70', '73', '80']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 466: ['57', '55', '61', '64', '62']
+Bad Index at:  1
+testlistNoBadIndex: ['57', '61', '64', '62']
+testlistAfterBadIndex: ['57', '55', '64', '62']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 467: ['58', '59', '61', '64', '62', '64']
+Bad Index at:  3
+testlistNoBadIndex: ['58', '59', '61', '62', '64']
+testlistAfterBadIndex: ['58', '59', '61', '64', '64']
+Woo!!!!! -1 3
+Testing Line 468: ['26', '28', '30', '31', '33', '31']
+Bad Index at:  4
+testlistNoBadIndex: ['26', '28', '30', '31', '31']
+testlistAfterBadIndex: ['26', '28', '30', '31', '33']
+Woo!!!!! 3 -1
+Testing Line 469: ['67', '71', '74', '75', '74', '81']
+Bad Index at:  0
+testlistNoBadIndex: ['71', '74', '75', '74', '81']
+testlistAfterBadIndex: ['67', '74', '75', '74', '81']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 470: ['33', '34', '33', '31', '30', '28', '24']
+Bad Index at:  1
+testlistNoBadIndex: ['33', '33', '31', '30', '28', '24']
+testlistAfterBadIndex: ['33', '34', '31', '30', '28', '24']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 471: ['42', '35', '33', '31', '29', '27', '25', '27']
+Bad Index at:  0
+testlistNoBadIndex: ['35', '33', '31', '29', '27', '25', '27']
+testlistAfterBadIndex: ['42', '33', '31', '29', '27', '25', '27']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 472: ['24', '22', '21', '17', '17']
+Bad Index at:  2
+testlistNoBadIndex: ['24', '22', '17', '17']
+testlistAfterBadIndex: ['24', '22', '21', '17']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 473: ['70', '63', '62', '62', '60', '56']
+Bad Index at:  0
+testlistNoBadIndex: ['63', '62', '62', '60', '56']
+testlistAfterBadIndex: ['70', '62', '62', '60', '56']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 474: ['33', '35', '35', '38', '39', '40']
+Bad Index at:  1
+testlistNoBadIndex: ['33', '35', '38', '39', '40']
+testlistAfterBadIndex: ['33', '35', '38', '39', '40']
+Woo!!!!! -1 -1
+Testing Line 475: ['2', '2', '4', '4', '5', '5']
+Bad Index at:  0
+testlistNoBadIndex: ['2', '4', '4', '5', '5']
+testlistAfterBadIndex: ['2', '4', '4', '5', '5']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 476: ['43', '43', '41', '40', '36', '33', '29']
+Bad Index at:  0
+testlistNoBadIndex: ['43', '41', '40', '36', '33', '29']
+testlistAfterBadIndex: ['43', '41', '40', '36', '33', '29']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 477: ['85', '85', '86', '86', '89', '92', '95']
+Bad Index at:  0
+testlistNoBadIndex: ['85', '86', '86', '89', '92', '95']
+testlistAfterBadIndex: ['85', '86', '86', '89', '92', '95']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 478: ['26', '32', '29', '32', '34', '36', '33']
+Bad Index at:  0
+testlistNoBadIndex: ['32', '29', '32', '34', '36', '33']
+testlistAfterBadIndex: ['26', '29', '32', '34', '36', '33']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 479: ['26', '27', '30', '28', '34']
+Bad Index at:  2
+testlistNoBadIndex: ['26', '27', '28', '34']
+testlistAfterBadIndex: ['26', '27', '30', '34']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 480: ['51', '54', '54', '51', '50', '48', '44']
+Bad Index at:  1
+testlistNoBadIndex: ['51', '54', '51', '50', '48', '44']
+testlistAfterBadIndex: ['51', '54', '51', '50', '48', '44']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 481: ['71', '71', '65', '62', '59', '59']
+Bad Index at:  0
+testlistNoBadIndex: ['71', '65', '62', '59', '59']
+testlistAfterBadIndex: ['71', '65', '62', '59', '59']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 482: ['58', '53', '48', '45', '44', '46']
+Bad Index at:  0
+testlistNoBadIndex: ['53', '48', '45', '44', '46']
+testlistAfterBadIndex: ['58', '48', '45', '44', '46']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 483: ['97', '93', '91', '87', '84', '80']
+Bad Index at:  0
+testlistNoBadIndex: ['93', '91', '87', '84', '80']
+testlistAfterBadIndex: ['97', '91', '87', '84', '80']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 484: ['11', '10', '13', '14', '15', '16', '23', '28']
+Bad Index at:  1
+testlistNoBadIndex: ['11', '13', '14', '15', '16', '23', '28']
+testlistAfterBadIndex: ['11', '10', '14', '15', '16', '23', '28']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 485: ['43', '48', '51', '52', '57']
+Bad Index at:  0
+testlistNoBadIndex: ['48', '51', '52', '57']
+testlistAfterBadIndex: ['43', '51', '52', '57']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 486: ['43', '42', '44', '48', '50', '56']
+Bad Index at:  1
+testlistNoBadIndex: ['43', '44', '48', '50', '56']
+testlistAfterBadIndex: ['43', '42', '48', '50', '56']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 487: ['58', '63', '64', '65', '66', '69', '70', '74']
+Bad Index at:  0
+testlistNoBadIndex: ['63', '64', '65', '66', '69', '70', '74']
+testlistAfterBadIndex: ['58', '64', '65', '66', '69', '70', '74']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 488: ['80', '79', '76', '73', '68', '61']
+Bad Index at:  3
+testlistNoBadIndex: ['80', '79', '76', '68', '61']
+testlistAfterBadIndex: ['80', '79', '76', '73', '61']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 489: ['4', '4', '7', '4', '3']
+Bad Index at:  0
+testlistNoBadIndex: ['4', '7', '4', '3']
+testlistAfterBadIndex: ['4', '7', '4', '3']
+Unfortunately firstcheck and secondCheck both failed
+Testing Line 490: ['82', '81', '80', '78', '77']
+Testing Line 491: ['81', '84', '87', '89', '90', '91']
+Testing Line 492: ['67', '64', '62', '61', '58', '56', '53', '50']
+Testing Line 493: ['84', '82', '80', '77', '76']
+Testing Line 494: ['70', '71', '73', '74', '77', '78', '81', '82']
+Testing Line 495: ['24', '26', '27', '29', '30', '32']
+Testing Line 496: ['32', '30', '28', '26', '25', '23', '21', '20']
+Testing Line 497: ['36', '38', '39', '41', '43']
+Testing Line 498: ['32', '29', '26', '25', '23', '22', '19', '18']
+Testing Line 499: ['40', '37', '34', '33', '32', '31', '29']
+Testing Line 500: ['81', '84', '85', '87', '89']
+Testing Line 501: ['20', '22', '23', '25', '28']
+Testing Line 502: ['53', '50', '49', '48', '47']
+Testing Line 503: ['48', '49', '50', '53', '55', '56']
+Testing Line 504: ['18', '17', '14', '13', '12', '9', '6', '4']
+Testing Line 505: ['14', '12', '9', '8', '5', '4', '3']
+Testing Line 506: ['9', '10', '11', '12', '13', '16', '18']
+Testing Line 507: ['50', '48', '47', '45', '44', '41', '40', '37']
+Testing Line 508: ['46', '48', '50', '52', '53']
+Testing Line 509: ['21', '20', '19', '18', '16']
+Testing Line 510: ['28', '26', '23', '21', '19']
+Testing Line 511: ['82', '80', '79', '76', '73', '72', '70']
+Testing Line 512: ['70', '69', '66', '65', '64', '63']
+Testing Line 513: ['83', '86', '87', '90', '92', '95']
+Testing Line 514: ['46', '49', '52', '55', '58', '59', '62', '63']
+Testing Line 515: ['30', '27', '24', '22', '19', '18', '16']
+Testing Line 516: ['19', '17', '14', '12', '11', '9']
+Testing Line 517: ['48', '51', '54', '55', '56', '59', '61', '63']
+Testing Line 518: ['17', '16', '15', '14', '12', '11']
+Testing Line 519: ['71', '68', '66', '64', '63', '61', '59']
+Testing Line 520: ['74', '73', '72', '69', '66', '64', '61', '60']
+Testing Line 521: ['38', '39', '41', '42', '44']
+Testing Line 522: ['38', '35', '32', '31', '29']
+Testing Line 523: ['53', '52', '51', '48', '46', '44', '41', '39']
+Testing Line 524: ['23', '22', '20', '17', '15', '14']
+Testing Line 525: ['39', '38', '37', '35', '32', '30', '27', '24']
+Testing Line 526: ['60', '59', '57', '54', '52', '49']
+Testing Line 527: ['34', '37', '39', '40', '42']
+Testing Line 528: ['76', '79', '82', '85', '88']
+Testing Line 529: ['65', '62', '59', '57', '55', '53', '52', '51']
+Testing Line 530: ['20', '22', '24', '27', '28', '31', '33', '36']
+Testing Line 531: ['76', '79', '81', '83', '85', '86']
+Testing Line 532: ['37', '34', '32', '30', '27', '24', '23']
+Testing Line 533: ['41', '42', '44', '45', '47', '50']
+Testing Line 534: ['6', '8', '9', '10', '11', '12']
+Testing Line 535: ['51', '53', '55', '56', '59']
+Testing Line 536: ['65', '62', '60', '58', '57', '55', '54', '52']
+Testing Line 537: ['7', '8', '11', '13', '16', '19', '20', '22']
+Testing Line 538: ['49', '46', '45', '44', '42']
+Testing Line 539: ['50', '53', '55', '58', '60', '63', '65', '68']
+Testing Line 540: ['63', '60', '58', '57', '54']
+Testing Line 541: ['9', '11', '14', '17', '20', '21', '22']
+Testing Line 542: ['37', '36', '35', '32', '31', '30', '29', '28']
+Testing Line 543: ['82', '79', '76', '73', '70', '67', '66', '64']
+Testing Line 544: ['8', '11', '12', '15', '18', '20']
+Testing Line 545: ['78', '79', '80', '82', '85', '86']
+Testing Line 546: ['96', '93', '90', '89', '88', '86', '84']
+Testing Line 547: ['69', '72', '75', '76', '77', '79', '82']
+Testing Line 548: ['50', '47', '44', '43', '42', '41', '38', '35']
+Testing Line 549: ['67', '69', '70', '73', '74', '75', '77']
+Testing Line 550: ['52', '53', '55', '58', '59']
+Testing Line 551: ['23', '25', '28', '31', '33', '35', '38']
+Testing Line 552: ['77', '78', '79', '80', '82', '83']
+Testing Line 553: ['91', '89', '87', '84', '81']
+Testing Line 554: ['17', '14', '11', '8', '6']
+Testing Line 555: ['40', '43', '44', '47', '49', '51', '52', '53']
+Testing Line 556: ['62', '65', '68', '69', '71', '74', '76']
+Testing Line 557: ['34', '36', '38', '40', '42', '44']
+Testing Line 558: ['86', '83', '80', '79', '76', '73', '72']
+Testing Line 559: ['82', '83', '84', '87', '90', '92', '94', '97']
+Testing Line 560: ['14', '15', '16', '17', '18', '19', '20']
+Testing Line 561: ['77', '80', '83', '84', '87', '88']
+Testing Line 562: ['80', '77', '75', '72', '70', '69', '67', '66']
+Testing Line 563: ['44', '42', '40', '38', '36']
+Testing Line 564: ['39', '40', '41', '44', '46', '48']
+Testing Line 565: ['17', '15', '13', '12', '9']
+Testing Line 566: ['54', '56', '57', '60', '63']
+Testing Line 567: ['86', '89', '91', '93', '96']
+Testing Line 568: ['36', '33', '31', '29', '27', '25', '23', '21']
+Testing Line 569: ['66', '63', '60', '59', '56', '53', '52', '49']
+Testing Line 570: ['79', '81', '83', '86', '89', '90', '91']
+Testing Line 571: ['36', '35', '32', '31', '29', '28', '26', '24']
+Testing Line 572: ['80', '82', '83', '85', '87']
+Testing Line 573: ['45', '48', '51', '52', '55', '57', '58', '61']
+Testing Line 574: ['90', '89', '88', '86', '83', '80']
+Testing Line 575: ['28', '29', '31', '32', '34', '36', '37']
+Testing Line 576: ['7', '10', '11', '13', '15']
+Testing Line 577: ['78', '81', '84', '87', '89', '90', '91', '92']
+Testing Line 578: ['73', '74', '77', '80', '82', '83']
+Testing Line 579: ['94', '93', '92', '90', '87', '86', '83', '80']
+Testing Line 580: ['72', '73', '75', '78', '81', '82', '84', '86']
+Testing Line 581: ['2', '3', '4', '7', '8']
+Testing Line 582: ['77', '79', '80', '81', '82', '83']
+Testing Line 583: ['67', '66', '65', '62', '59', '56', '55', '53']
+Testing Line 584: ['37', '38', '41', '43', '46', '47']
+Testing Line 585: ['57', '59', '62', '65', '67']
+Testing Line 586: ['78', '80', '81', '83', '86', '88', '90']
+Testing Line 587: ['12', '15', '16', '17', '18', '20', '23', '25']
+Testing Line 588: ['59', '58', '57', '55', '53', '51']
+Testing Line 589: ['80', '82', '84', '85', '87', '90']
+Testing Line 590: ['60', '61', '62', '64', '66', '68', '69', '70']
+Testing Line 591: ['99', '96', '94', '91', '90']
+Testing Line 592: ['80', '77', '76', '74', '72', '71', '69']
+Testing Line 593: ['44', '45', '48', '51', '53', '54', '56']
+Testing Line 594: ['22', '23', '25', '26', '29', '30']
+Testing Line 595: ['40', '39', '36', '34', '32']
+Testing Line 596: ['11', '10', '7', '6', '5']
+Testing Line 597: ['46', '49', '50', '52', '55', '57']
+Testing Line 598: ['83', '85', '88', '90', '93']
+Testing Line 599: ['57', '58', '60', '63', '66']
+Testing Line 600: ['76', '78', '81', '82', '85']
+Testing Line 601: ['5', '7', '8', '10', '11', '13', '15', '16']
+Testing Line 602: ['24', '25', '26', '28', '30', '32', '34']
+Testing Line 603: ['53', '54', '55', '57', '59']
+Testing Line 604: ['34', '37', '38', '41', '43', '46', '47', '49']
+Testing Line 605: ['68', '70', '73', '74', '77', '79']
+Testing Line 606: ['41', '39', '36', '35', '33', '30', '27', '26']
+Testing Line 607: ['62', '59', '58', '56', '53', '52', '49']
+Testing Line 608: ['27', '25', '24', '22', '20']
+Testing Line 609: ['3', '6', '9', '11', '14', '17', '18']
+Testing Line 610: ['51', '48', '45', '43', '41', '40', '38', '36']
+Testing Line 611: ['99', '98', '97', '95', '92', '90', '87']
+Testing Line 612: ['22', '19', '18', '16', '14', '11', '8']
+Testing Line 613: ['13', '15', '18', '21', '24', '26', '27']
+Testing Line 614: ['75', '73', '72', '71', '68', '65']
+Testing Line 615: ['97', '95', '92', '91', '88']
+Testing Line 616: ['65', '66', '69', '71', '72', '73', '74']
+Testing Line 617: ['46', '48', '49', '52', '55', '58']
+Testing Line 618: ['43', '42', '40', '39', '37', '35', '33', '31']
+Testing Line 619: ['19', '18', '15', '13', '12', '11', '10', '7']
+Testing Line 620: ['63', '66', '68', '70', '73', '75']
+Testing Line 621: ['60', '62', '65', '68', '71', '72', '73', '75']
+Testing Line 622: ['97', '96', '93', '91', '88', '86']
+Testing Line 623: ['74', '75', '77', '80', '81', '82']
+Testing Line 624: ['52', '53', '56', '57', '59', '60', '61', '63']
+Testing Line 625: ['16', '19', '20', '23', '25']
+Testing Line 626: ['44', '43', '40', '39', '37', '35']
+Testing Line 627: ['25', '23', '22', '20', '19', '17', '14']
+Testing Line 628: ['22', '20', '19', '17', '16', '15', '12', '10']
+Testing Line 629: ['32', '30', '28', '27', '24']
+Testing Line 630: ['44', '45', '48', '51', '52', '53', '54', '56']
+Testing Line 631: ['71', '72', '75', '78', '80']
+Testing Line 632: ['65', '67', '70', '71', '73', '75', '77', '79']
+Testing Line 633: ['25', '27', '29', '32', '35', '37', '39', '42']
+Testing Line 634: ['66', '64', '61', '60', '59']
+Testing Line 635: ['65', '64', '61', '60', '59', '57']
+Testing Line 636: ['72', '71', '68', '66', '65', '62']
+Testing Line 637: ['68', '71', '74', '75', '76', '77']
+Testing Line 638: ['19', '16', '13', '11', '9']
+Testing Line 639: ['48', '45', '43', '42', '40', '38', '37']
+Testing Line 640: ['51', '48', '47', '46', '45', '42', '40', '39']
+Testing Line 641: ['43', '44', '47', '48', '49', '52', '55']
+Testing Line 642: ['86', '83', '82', '80', '78']
+Testing Line 643: ['80', '78', '75', '72', '70']
+Testing Line 644: ['70', '67', '64', '63', '62', '59', '56', '55']
+Testing Line 645: ['96', '94', '92', '89', '88']
+Testing Line 646: ['83', '84', '85', '88', '89', '91']
+Testing Line 647: ['80', '81', '82', '83', '85', '88', '90']
+Testing Line 648: ['36', '37', '39', '41', '44', '45']
+Testing Line 649: ['41', '43', '44', '45', '47', '48', '51']
+Testing Line 650: ['62', '65', '68', '70', '72', '75', '77', '80']
+Testing Line 651: ['83', '84', '87', '88', '89', '92', '95']
+Testing Line 652: ['34', '37', '40', '43', '45', '47']
+Testing Line 653: ['62', '60', '58', '56', '54']
+Testing Line 654: ['81', '83', '84', '87', '89', '90', '93']
+Testing Line 655: ['98', '96', '95', '93', '92', '91', '89']
+Testing Line 656: ['28', '31', '33', '34', '35', '36', '39', '41']
+Testing Line 657: ['35', '34', '32', '30', '29']
+Testing Line 658: ['75', '73', '70', '68', '66', '64', '62', '59']
+Testing Line 659: ['17', '18', '21', '24', '25', '27', '30', '32']
+Testing Line 660: ['31', '33', '34', '36', '39']
+Testing Line 661: ['67', '66', '65', '63', '62', '59']
+Testing Line 662: ['45', '47', '50', '53', '54']
+Testing Line 663: ['8', '9', '11', '13', '15', '16']
+Testing Line 664: ['22', '20', '17', '15', '14', '13', '11']
+Testing Line 665: ['81', '84', '87', '89', '90']
+Testing Line 666: ['54', '56', '58', '59', '60', '61', '63']
+Testing Line 667: ['51', '52', '55', '57', '59', '62', '65', '67']
+Testing Line 668: ['73', '76', '78', '79', '81', '83', '86', '89']
+Testing Line 669: ['94', '93', '90', '89', '88']
+Testing Line 670: ['30', '31', '32', '33', '36', '38', '40']
+Testing Line 671: ['46', '44', '41', '40', '38', '35']
+Testing Line 672: ['66', '64', '62', '61', '58', '56', '54']
+Testing Line 673: ['14', '16', '19', '22', '24']
+Testing Line 674: ['55', '58', '60', '61', '63', '66', '69', '72']
+Testing Line 675: ['67', '66', '65', '63', '61', '58', '55']
+Testing Line 676: ['55', '57', '60', '62', '64', '67', '70']
+Testing Line 677: ['25', '28', '31', '33', '35', '37']
+Testing Line 678: ['98', '97', '95', '93', '91', '90']
+Testing Line 679: ['58', '61', '63', '65', '67', '69', '70']
+Testing Line 680: ['75', '74', '72', '69', '66']
+Testing Line 681: ['71', '74', '75', '78', '79', '80', '81']
+Testing Line 682: ['13', '16', '18', '20', '22', '25', '26', '28']
+Testing Line 683: ['84', '86', '87', '89', '92']
+Testing Line 684: ['10', '11', '12', '15', '18', '21', '23', '26']
+Testing Line 685: ['91', '88', '86', '83', '81', '78', '76']
+Testing Line 686: ['62', '63', '64', '67', '69', '72']
+Testing Line 687: ['32', '31', '30', '27', '24', '21', '20', '17']
+Testing Line 688: ['49', '51', '52', '55', '56', '58', '60']
+Testing Line 689: ['76', '77', '79', '82', '83', '86']
+Testing Line 690: ['76', '77', '79', '80', '81', '83', '85', '88']
+Testing Line 691: ['17', '20', '22', '25', '26', '29', '31']
+Testing Line 692: ['62', '59', '57', '56', '53']
+Testing Line 693: ['12', '10', '7', '6', '5', '4', '3']
+Testing Line 694: ['65', '64', '63', '60', '57', '56', '54']
+Testing Line 695: ['90', '91', '92', '95', '97', '98']
+Testing Line 696: ['21', '24', '25', '27', '28', '29', '31']
+Testing Line 697: ['33', '34', '37', '38', '40']
+Testing Line 698: ['16', '15', '12', '9', '7']
+Testing Line 699: ['71', '73', '75', '78', '79']
+Testing Line 700: ['94', '91', '90', '88', '85', '82']
+Testing Line 701: ['80', '77', '75', '72', '69']
+Testing Line 702: ['80', '82', '83', '86', '87', '89', '91', '94']
+Testing Line 703: ['89', '91', '92', '94', '95', '98']
+Testing Line 704: ['60', '58', '55', '52', '49', '46']
+Testing Line 705: ['44', '45', '47', '49', '52', '55']
+Testing Line 706: ['66', '65', '64', '62', '59', '56', '54', '51']
+Testing Line 707: ['49', '50', '51', '52', '53', '54', '56']
+Testing Line 708: ['15', '12', '9', '7', '5', '4', '1']
+Testing Line 709: ['19', '17', '16', '14', '11', '8']
+Testing Line 710: ['29', '28', '27', '25', '22', '21', '19']
+Testing Line 711: ['23', '20', '18', '15', '13', '10']
+Testing Line 712: ['19', '22', '25', '28', '29', '32']
+Testing Line 713: ['55', '53', '52', '51', '48', '47', '45', '44']
+Testing Line 714: ['15', '17', '20', '22', '24', '25', '26']
+Testing Line 715: ['52', '53', '56', '58', '59', '62', '65', '67']
+Testing Line 716: ['79', '80', '82', '84', '85', '88', '91']
+Testing Line 717: ['3', '6', '7', '8', '11', '12', '13', '16']
+Testing Line 718: ['21', '23', '24', '27', '30', '31']
+Testing Line 719: ['37', '40', '41', '42', '43', '45', '47', '50']
+Testing Line 720: ['66', '67', '68', '69', '72']
+Testing Line 721: ['51', '52', '53', '54', '55']
+Testing Line 722: ['33', '34', '37', '40', '41', '42', '45']
+Testing Line 723: ['85', '84', '83', '80', '77']
+Testing Line 724: ['54', '51', '49', '46', '45', '44']
+Testing Line 725: ['96', '93', '91', '90', '87', '84', '81', '80']
+Testing Line 726: ['82', '80', '79', '78', '77', '74', '71', '69']
+Testing Line 727: ['49', '47', '46', '43', '41', '40', '39']
+Testing Line 728: ['25', '24', '22', '21', '18']
+Testing Line 729: ['98', '95', '93', '92', '89']
+Testing Line 730: ['35', '36', '39', '41', '42', '44']
+Testing Line 731: ['45', '44', '42', '39', '38', '35', '34', '31']
+Testing Line 732: ['68', '70', '71', '74', '76', '77', '80', '82']
+Testing Line 733: ['44', '46', '48', '49', '52', '55']
+Testing Line 734: ['87', '86', '83', '80', '78', '76']
+Testing Line 735: ['78', '76', '75', '72', '70', '69', '67', '65']
+Testing Line 736: ['56', '59', '61', '62', '63', '66', '69']
+Testing Line 737: ['64', '66', '67', '68', '69']
+Testing Line 738: ['78', '80', '82', '85', '88', '90', '93', '96']
+Testing Line 739: ['85', '88', '89', '91', '93', '95', '98', '99']
+Testing Line 740: ['33', '34', '36', '38', '39']
+Testing Line 741: ['34', '33', '31', '30', '27', '25', '23', '20']
+Testing Line 742: ['16', '15', '13', '12', '9', '7', '6']
+Testing Line 743: ['62', '59', '57', '56', '55']
+Testing Line 744: ['72', '71', '68', '65', '64', '61', '60']
+Testing Line 745: ['6', '7', '8', '10', '11', '14', '17']
+Testing Line 746: ['78', '79', '80', '83', '84', '87', '88', '91']
+Testing Line 747: ['66', '69', '70', '72', '75', '76', '77', '79']
+Testing Line 748: ['99', '96', '95', '93', '92', '90', '87', '84']
+Testing Line 749: ['4', '6', '8', '11', '12', '14', '16']
+Testing Line 750: ['39', '36', '35', '32', '30', '29']
+Testing Line 751: ['93', '91', '88', '85', '84']
+Testing Line 752: ['31', '33', '34', '36', '38', '40', '43']
+Testing Line 753: ['59', '56', '55', '54', '53', '50', '47', '44']
+Testing Line 754: ['14', '16', '18', '21', '24', '27', '30', '31']
+Testing Line 755: ['33', '30', '28', '26', '24']
+Testing Line 756: ['83', '82', '79', '76', '73']
+Testing Line 757: ['44', '41', '40', '39', '38', '37', '36', '33']
+Testing Line 758: ['5', '6', '9', '11', '14', '16', '17', '19']
+Testing Line 759: ['11', '12', '15', '16', '18', '20', '23']
+Testing Line 760: ['33', '31', '30', '28', '25', '22', '20']
+Testing Line 761: ['43', '42', '40', '39', '37', '34', '31', '29']
+Testing Line 762: ['1', '4', '7', '8', '10', '13']
+Testing Line 763: ['30', '32', '34', '35', '37', '39']
+Testing Line 764: ['37', '39', '42', '45', '46', '49', '51', '52']
+Testing Line 765: ['72', '75', '77', '78', '79', '80', '82']
+Testing Line 766: ['85', '83', '80', '77', '76', '74', '72', '70']
+Testing Line 767: ['60', '57', '56', '54', '52', '51']
+Testing Line 768: ['62', '61', '60', '57', '54']
+Testing Line 769: ['85', '82', '80', '78', '75']
+Testing Line 770: ['42', '45', '47', '48', '50', '51', '52', '54']
+Testing Line 771: ['40', '42', '43', '46', '47', '50']
+Testing Line 772: ['44', '47', '49', '50', '51']
+Testing Line 773: ['42', '45', '47', '48', '49', '52', '53']
+Testing Line 774: ['24', '26', '28', '29', '31', '33']
+Testing Line 775: ['28', '25', '23', '22', '19', '16']
+Testing Line 776: ['14', '13', '11', '9', '6', '3', '1']
+Testing Line 777: ['68', '66', '63', '60', '57', '56', '54', '51']
+Testing Line 778: ['3', '4', '5', '8', '11', '14', '16']
+Testing Line 779: ['41', '43', '44', '45', '48', '50', '53', '55']
+Testing Line 780: ['62', '64', '67', '70', '72', '74', '76']
+Testing Line 781: ['16', '13', '11', '10', '7', '5', '3', '1']
+Testing Line 782: ['87', '86', '83', '82', '79']
+Testing Line 783: ['26', '29', '30', '32', '35', '36', '37']
+Testing Line 784: ['58', '61', '62', '64', '67']
+Testing Line 785: ['83', '82', '79', '76', '73', '70']
+Testing Line 786: ['65', '67', '69', '70', '72', '73', '75', '77']
+Testing Line 787: ['64', '65', '66', '67', '69', '71']
+Testing Line 788: ['1', '3', '5', '7', '9']
+Testing Line 789: ['51', '53', '54', '55', '58', '61']
+Testing Line 790: ['19', '16', '15', '13', '11', '10', '7', '5']
+Testing Line 791: ['82', '79', '76', '74', '71', '68', '67', '64']
+Testing Line 792: ['32', '30', '28', '27', '25', '22', '20']
+Testing Line 793: ['71', '72', '73', '76', '78', '81']
+Testing Line 794: ['45', '43', '40', '38', '37', '35', '34', '31']
+Testing Line 795: ['35', '34', '32', '31', '28']
+Testing Line 796: ['16', '17', '18', '21', '22', '25', '28', '29']
+Testing Line 797: ['24', '23', '22', '21', '18', '17', '16', '13']
+Testing Line 798: ['54', '56', '59', '60', '63', '66', '68']
+Testing Line 799: ['56', '59', '61', '64', '65']
+Testing Line 800: ['63', '62', '59', '56', '54']
+Testing Line 801: ['43', '45', '48', '50', '52', '55', '56']
+Testing Line 802: ['80', '77', '76', '75', '73', '71']
+Testing Line 803: ['35', '36', '39', '42', '45', '47', '49']
+Testing Line 804: ['6', '9', '12', '15', '18', '20', '23']
+Testing Line 805: ['71', '73', '76', '77', '80', '83', '85']
+Testing Line 806: ['57', '59', '61', '63', '64', '67', '68', '70']
+Testing Line 807: ['30', '28', '25', '22', '21', '18', '15', '14']
+Testing Line 808: ['70', '67', '64', '63', '61', '58', '57']
+Testing Line 809: ['26', '24', '21', '20', '18', '17', '15', '13']
+Testing Line 810: ['60', '59', '56', '54', '51', '48', '47', '45']
+Testing Line 811: ['93', '95', '96', '98', '99']
+Testing Line 812: ['91', '88', '86', '84', '81', '80', '79', '76']
+Testing Line 813: ['12', '10', '9', '6', '3']
+Testing Line 814: ['22', '19', '16', '15', '14', '11', '8']
+Testing Line 815: ['40', '39', '38', '35', '32']
+Testing Line 816: ['64', '62', '60', '58', '56', '55']
+Testing Line 817: ['31', '33', '35', '38', '40', '42']
+Testing Line 818: ['18', '17', '14', '11', '9', '6', '5', '2']
+Testing Line 819: ['82', '85', '87', '88', '90', '91']
+Testing Line 820: ['65', '64', '61', '58', '57', '54']
+Testing Line 821: ['28', '30', '32', '33', '34', '35', '38']
+Testing Line 822: ['58', '55', '54', '51', '50', '47', '45', '42']
+Testing Line 823: ['31', '30', '28', '25', '22', '19', '18']
+Testing Line 824: ['53', '55', '56', '59', '61']
+Testing Line 825: ['16', '15', '13', '10', '8', '5', '3', '1']
+Testing Line 826: ['34', '37', '40', '43', '45', '47', '50', '53']
+Testing Line 827: ['38', '35', '34', '31', '29']
+Testing Line 828: ['20', '17', '16', '14', '11']
+Testing Line 829: ['27', '24', '21', '20', '18']
+Testing Line 830: ['79', '80', '83', '84', '87', '88', '89']
+Testing Line 831: ['30', '29', '26', '24', '22', '21']
+Testing Line 832: ['47', '50', '53', '56', '58', '61']
+Testing Line 833: ['77', '74', '72', '69', '66']
+Testing Line 834: ['78', '77', '75', '72', '70', '67', '65', '64']
+Testing Line 835: ['79', '77', '74', '73', '70', '69', '67', '64']
+Testing Line 836: ['54', '56', '58', '59', '61', '64']
+Testing Line 837: ['87', '85', '82', '80', '79']
+Testing Line 838: ['59', '60', '63', '65', '68', '71', '72']
+Testing Line 839: ['82', '83', '86', '89', '91', '94', '97', '98']
+Testing Line 840: ['15', '14', '12', '9', '7', '6', '4', '3']
+Testing Line 841: ['24', '25', '27', '29', '31', '32', '35']
+Testing Line 842: ['68', '65', '64', '61', '58', '57']
+Testing Line 843: ['31', '34', '36', '38', '40', '41']
+Testing Line 844: ['49', '51', '52', '55', '56', '58', '61', '64']
+Testing Line 845: ['15', '14', '13', '10', '7']
+Testing Line 846: ['88', '87', '86', '84', '82', '80', '79', '78']
+Testing Line 847: ['60', '61', '64', '65', '68', '69']
+Testing Line 848: ['90', '92', '94', '97', '99']
+Testing Line 849: ['62', '64', '66', '68', '70', '72', '73', '74']
+Testing Line 850: ['34', '35', '36', '38', '41', '43', '45']
+Testing Line 851: ['25', '27', '29', '30', '31', '33', '34']
+Testing Line 852: ['80', '81', '82', '84', '85', '86']
+Testing Line 853: ['22', '19', '16', '15', '13', '11', '10']
+Testing Line 854: ['45', '48', '49', '52', '53', '54', '57']
+Testing Line 855: ['60', '57', '55', '52', '51', '48', '45']
+Testing Line 856: ['95', '92', '89', '88', '86', '84']
+Testing Line 857: ['51', '50', '48', '46', '43', '40', '39']
+Testing Line 858: ['60', '58', '57', '55', '53', '50', '47']
+Testing Line 859: ['69', '67', '65', '63', '60', '57']
+Testing Line 860: ['37', '40', '42', '43', '44', '46', '49', '51']
+Testing Line 861: ['11', '14', '16', '18', '21', '22', '25']
+Testing Line 862: ['51', '48', '46', '45', '44', '41', '40']
+Testing Line 863: ['80', '81', '82', '84', '87', '90']
+Testing Line 864: ['46', '44', '42', '40', '37', '35', '32', '29']
+Testing Line 865: ['62', '63', '65', '67', '68', '71', '74']
+Testing Line 866: ['5', '7', '8', '11', '13', '16', '19', '20']
+Testing Line 867: ['19', '16', '13', '10', '9']
+Testing Line 868: ['45', '48', '49', '51', '53', '54', '55', '56']
+Testing Line 869: ['3', '4', '5', '6', '8', '11', '12', '15']
+Testing Line 870: ['44', '47', '48', '51', '54', '57', '60']
+Testing Line 871: ['83', '82', '80', '77', '74', '72', '71', '68']
+Testing Line 872: ['69', '68', '65', '63', '62', '61', '59', '56']
+Testing Line 873: ['14', '11', '8', '6', '4']
+Testing Line 874: ['82', '83', '86', '87', '90', '92']
+Testing Line 875: ['62', '59', '57', '56', '55', '54', '53']
+Testing Line 876: ['64', '65', '67', '70', '72', '75']
+Testing Line 877: ['48', '47', '44', '42', '41', '40', '38', '36']
+Testing Line 878: ['26', '25', '23', '20', '19', '16']
+Testing Line 879: ['61', '59', '58', '55', '54', '52']
+Testing Line 880: ['70', '73', '75', '76', '77', '78', '79']
+Testing Line 881: ['68', '71', '72', '74', '77', '78', '80', '83']
+Testing Line 882: ['69', '70', '71', '72', '75', '76', '78', '80']
+Testing Line 883: ['84', '85', '87', '90', '91', '94', '96', '99']
+Testing Line 884: ['2', '3', '5', '8', '9']
+Testing Line 885: ['27', '29', '31', '33', '34', '37', '38']
+Testing Line 886: ['65', '63', '61', '58', '57', '56']
+Testing Line 887: ['59', '57', '54', '53', '51', '49']
+Testing Line 888: ['46', '47', '49', '51', '54', '57']
+Testing Line 889: ['66', '68', '70', '72', '74', '77', '80', '81']
+Testing Line 890: ['55', '53', '51', '48', '46', '43']
+Testing Line 891: ['84', '83', '80', '79', '76', '75', '73']
+Testing Line 892: ['60', '63', '66', '68', '71', '72', '74', '77']
+Testing Line 893: ['82', '84', '85', '86', '88', '89', '91']
+Testing Line 894: ['51', '53', '55', '58', '61', '62', '65', '66']
+Testing Line 895: ['55', '57', '59', '61', '64', '65']
+Testing Line 896: ['41', '42', '44', '47', '48', '50']
+Testing Line 897: ['67', '64', '63', '61', '59', '58', '55', '52']
+Testing Line 898: ['20', '22', '25', '26', '28', '31', '32']
+Testing Line 899: ['32', '35', '38', '41', '43', '46']
+Testing Line 900: ['13', '10', '9', '8', '6', '3', '1']
+Testing Line 901: ['31', '28', '27', '26', '23', '20']
+Testing Line 902: ['61', '60', '59', '57', '55']
+Testing Line 903: ['77', '80', '83', '86', '89', '90']
+Testing Line 904: ['29', '26', '25', '22', '19']
+Testing Line 905: ['32', '34', '37', '39', '42', '43']
+Testing Line 906: ['76', '74', '73', '71', '69', '66']
+Testing Line 907: ['23', '26', '28', '29', '32', '34', '36', '37']
+Testing Line 908: ['34', '33', '32', '30', '29', '27', '24', '22']
+Testing Line 909: ['62', '59', '57', '56', '55', '52', '49', '46']
+Testing Line 910: ['63', '62', '60', '58', '57', '54']
+Testing Line 911: ['52', '54', '57', '60', '62', '65']
+Testing Line 912: ['1', '4', '5', '6', '7']
+Testing Line 913: ['8', '9', '12', '15', '17', '19', '21']
+Testing Line 914: ['16', '18', '21', '23', '26', '29']
+Testing Line 915: ['72', '69', '68', '67', '65', '62', '60', '59']
+Testing Line 916: ['51', '50', '47', '45', '44', '41', '40', '39']
+Testing Line 917: ['27', '24', '22', '19', '18', '17']
+Testing Line 918: ['21', '22', '24', '27', '28', '31', '33']
+Testing Line 919: ['84', '83', '80', '79', '78', '76', '74', '73']
+Testing Line 920: ['84', '85', '86', '88', '90', '92', '93']
+Testing Line 921: ['38', '39', '41', '44', '47', '49', '52']
+Testing Line 922: ['3', '6', '9', '10', '13', '14', '15']
+Testing Line 923: ['14', '12', '11', '9', '6', '4']
+Testing Line 924: ['79', '77', '74', '71', '69', '67', '66', '64']
+Testing Line 925: ['55', '54', '53', '50', '49', '47', '45']
+Testing Line 926: ['54', '55', '56', '58', '60', '62', '63', '65']
+Testing Line 927: ['41', '44', '45', '48', '49', '52']
+Testing Line 928: ['75', '77', '78', '79', '81', '83', '86']
+Testing Line 929: ['55', '57', '58', '59', '61', '63']
+Testing Line 930: ['97', '96', '94', '93', '90', '87']
+Testing Line 931: ['78', '80', '82', '84', '85', '88', '89', '91']
+Testing Line 932: ['57', '54', '51', '50', '48', '47', '45', '43']
+Testing Line 933: ['66', '65', '63', '60', '59', '56']
+Testing Line 934: ['26', '24', '23', '22', '19', '17', '16', '14']
+Testing Line 935: ['46', '43', '40', '39', '37']
+Testing Line 936: ['71', '69', '66', '63', '61']
+Testing Line 937: ['68', '66', '64', '61', '58', '55', '53', '51']
+Testing Line 938: ['68', '65', '63', '60', '58', '57', '55']
+Testing Line 939: ['65', '68', '69', '72', '74', '76', '77', '79']
+Testing Line 940: ['82', '81', '78', '75', '72', '69', '66', '65']
+Testing Line 941: ['79', '76', '73', '71', '68', '67', '66']
+Testing Line 942: ['21', '23', '24', '25', '26']
+Testing Line 943: ['39', '36', '34', '31', '30', '28', '25', '24']
+Testing Line 944: ['6', '9', '10', '12', '15', '16']
+Testing Line 945: ['33', '30', '27', '25', '23', '20', '19', '16']
+Testing Line 946: ['46', '48', '50', '52', '54']
+Testing Line 947: ['75', '77', '79', '81', '84', '85', '86', '89']
+Testing Line 948: ['83', '84', '85', '87', '88', '90', '93']
+Testing Line 949: ['43', '45', '46', '48', '51', '54', '56', '58']
+Testing Line 950: ['29', '32', '35', '38', '40']
+Testing Line 951: ['29', '27', '26', '24', '22']
+Testing Line 952: ['41', '38', '35', '33', '30', '27', '26']
+Testing Line 953: ['42', '43', '45', '48', '50', '51', '54', '55']
+Testing Line 954: ['93', '91', '90', '89', '88', '85', '83']
+Testing Line 955: ['10', '13', '15', '17', '20']
+Testing Line 956: ['62', '64', '67', '68', '69']
+Testing Line 957: ['18', '17', '15', '13', '10', '8', '7']
+Testing Line 958: ['44', '46', '49', '51', '54']
+Testing Line 959: ['41', '40', '37', '34', '31', '29']
+Testing Line 960: ['89', '92', '94', '96', '97', '99']
+Testing Line 961: ['81', '79', '76', '73', '71', '69', '66', '63']
+Testing Line 962: ['46', '49', '52', '55', '58', '60', '61', '63']
+Testing Line 963: ['40', '41', '43', '44', '46', '48']
+Testing Line 964: ['67', '69', '72', '73', '75', '76', '77']
+Testing Line 965: ['90', '87', '85', '84', '81']
+Testing Line 966: ['8', '7', '4', '2', '1']
+Testing Line 967: ['35', '36', '37', '39', '41', '43']
+Testing Line 968: ['72', '74', '75', '76', '77', '78', '80']
+Testing Line 969: ['87', '84', '83', '80', '78', '75', '73']
+Testing Line 970: ['78', '80', '82', '85', '88', '90', '91']
+Testing Line 971: ['57', '54', '52', '51', '49', '48', '45', '42']
+Testing Line 972: ['30', '33', '34', '36', '39', '40', '43']
+Testing Line 973: ['52', '55', '58', '60', '62', '64']
+Testing Line 974: ['72', '69', '67', '66', '64', '63']
+Testing Line 975: ['98', '95', '92', '90', '88', '87', '85', '82']
+Testing Line 976: ['96', '94', '91', '89', '87', '86']
+Testing Line 977: ['42', '41', '38', '36', '34', '32', '29', '28']
+Testing Line 978: ['73', '76', '79', '82', '85', '87']
+Testing Line 979: ['30', '32', '33', '36', '39', '41', '42']
+Testing Line 980: ['75', '72', '69', '68', '67', '66', '65', '64']
+Testing Line 981: ['94', '93', '90', '87', '86', '84']
+Testing Line 982: ['32', '34', '36', '38', '40', '43', '46']
+Testing Line 983: ['29', '26', '25', '24', '21']
+Testing Line 984: ['89', '92', '93', '94', '95', '97']
+Testing Line 985: ['69', '72', '74', '75', '77', '78', '79', '81']
+Testing Line 986: ['77', '74', '73', '72', '70', '69']
+Testing Line 987: ['67', '65', '62', '60', '59']
+Testing Line 988: ['11', '13', '15', '17', '18', '21', '22']
+Testing Line 989: ['21', '19', '16', '15', '12', '9', '6', '3']
+Testing Line 990: ['90', '87', '85', '83', '80', '78', '75']
+Testing Line 991: ['27', '30', '31', '34', '35', '36', '38']
+Testing Line 992: ['54', '55', '57', '58', '60', '62', '65', '67']
+Testing Line 993: ['38', '41', '44', '46', '49']
+Testing Line 994: ['24', '25', '26', '29', '32']
+Testing Line 995: ['80', '79', '76', '73', '72']
+Testing Line 996: ['73', '70', '68', '65', '63', '61', '58']
+Testing Line 997: ['28', '26', '23', '20', '17', '16', '14']
+Testing Line 998: ['36', '34', '31', '28', '26', '23']
+Testing Line 999: ['66', '64', '63', '62', '59', '58']
+550
